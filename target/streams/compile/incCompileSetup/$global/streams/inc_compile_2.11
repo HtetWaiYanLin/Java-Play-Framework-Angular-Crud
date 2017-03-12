@@ -1,0 +1,840 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /home/najd-dev/Documents/play-java/target/scala-2.11/classes
+compile options:
+4 items
+0 -> -deprecation
+1 -> -unchecked
+2 -> -encoding
+3 -> utf8
+javac options:
+3 items
+0 -> -encoding
+1 -> utf8
+2 -> -g
+compiler version:
+1 items
+0 -> 2.11.8
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+59 items
+/home/najd-dev/Documents/play-java/app/controllers/BookController.java -> /home/najd-dev/Documents/play-java/target/scala-2.11/classes/controllers/BookController.class
+/home/najd-dev/Documents/play-java/app/models/Book.java -> /home/najd-dev/Documents/play-java/target/scala-2.11/classes/models/Book.class
+/home/najd-dev/Documents/play-java/app/models/BookDAO.java -> /home/najd-dev/Documents/play-java/target/scala-2.11/classes/models/BookDAO.class
+/home/najd-dev/Documents/play-java/app/models/BookService.java -> /home/najd-dev/Documents/play-java/target/scala-2.11/classes/models/BookService.class
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> /home/najd-dev/Documents/play-java/target/scala-2.11/classes/controllers/ReverseAssets.class
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> /home/najd-dev/Documents/play-java/target/scala-2.11/classes/controllers/ReverseBookController.class
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> /home/najd-dev/Documents/play-java/target/scala-2.11/classes/controllers/javascript/ReverseAssets.class
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> /home/najd-dev/Documents/play-java/target/scala-2.11/classes/controllers/javascript/ReverseBookController.class
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/controllers/routes.java -> /home/najd-dev/Documents/play-java/target/scala-2.11/classes/controllers/routes$javascript.class
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/controllers/routes.java -> /home/najd-dev/Documents/play-java/target/scala-2.11/classes/controllers/routes.class
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> /home/najd-dev/Documents/play-java/target/scala-2.11/classes/router/Routes$$anonfun$documentation$1.class
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> /home/najd-dev/Documents/play-java/target/scala-2.11/classes/router/Routes$$anonfun$router$Routes$$controllers_Assets_at7_invoker$1.class
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> /home/najd-dev/Documents/play-java/target/scala-2.11/classes/router/Routes$$anonfun$router$Routes$$controllers_BookController_createBook4_invoker$1.class
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> /home/najd-dev/Documents/play-java/target/scala-2.11/classes/router/Routes$$anonfun$router$Routes$$controllers_BookController_deleteBookById6_invoker$1.class
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> /home/najd-dev/Documents/play-java/target/scala-2.11/classes/router/Routes$$anonfun$router$Routes$$controllers_BookController_getbookById3_invoker$1.class
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> /home/najd-dev/Documents/play-java/target/scala-2.11/classes/router/Routes$$anonfun$router$Routes$$controllers_BookController_index0_invoker$1.class
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> /home/najd-dev/Documents/play-java/target/scala-2.11/classes/router/Routes$$anonfun$router$Routes$$controllers_BookController_listBooks2_invoker$1.class
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> /home/najd-dev/Documents/play-java/target/scala-2.11/classes/router/Routes$$anonfun$router$Routes$$controllers_BookController_template1_invoker$1.class
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> /home/najd-dev/Documents/play-java/target/scala-2.11/classes/router/Routes$$anonfun$router$Routes$$controllers_BookController_updateBook5_invoker$1.class
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> /home/najd-dev/Documents/play-java/target/scala-2.11/classes/router/Routes$$anonfun$routes$1$$anonfun$applyOrElse$1$$anonfun$apply$1.class
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> /home/najd-dev/Documents/play-java/target/scala-2.11/classes/router/Routes$$anonfun$routes$1$$anonfun$applyOrElse$1.class
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> /home/najd-dev/Documents/play-java/target/scala-2.11/classes/router/Routes$$anonfun$routes$1$$anonfun$applyOrElse$2$$anonfun$apply$2.class
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> /home/najd-dev/Documents/play-java/target/scala-2.11/classes/router/Routes$$anonfun$routes$1$$anonfun$applyOrElse$2.class
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> /home/najd-dev/Documents/play-java/target/scala-2.11/classes/router/Routes$$anonfun$routes$1$$anonfun$applyOrElse$3$$anonfun$apply$3.class
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> /home/najd-dev/Documents/play-java/target/scala-2.11/classes/router/Routes$$anonfun$routes$1$$anonfun$applyOrElse$3.class
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> /home/najd-dev/Documents/play-java/target/scala-2.11/classes/router/Routes$$anonfun$routes$1$$anonfun$applyOrElse$4$$anonfun$apply$4.class
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> /home/najd-dev/Documents/play-java/target/scala-2.11/classes/router/Routes$$anonfun$routes$1$$anonfun$applyOrElse$4.class
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> /home/najd-dev/Documents/play-java/target/scala-2.11/classes/router/Routes$$anonfun$routes$1$$anonfun$applyOrElse$5$$anonfun$apply$5.class
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> /home/najd-dev/Documents/play-java/target/scala-2.11/classes/router/Routes$$anonfun$routes$1$$anonfun$applyOrElse$5.class
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> /home/najd-dev/Documents/play-java/target/scala-2.11/classes/router/Routes$$anonfun$routes$1$$anonfun$applyOrElse$6$$anonfun$apply$6.class
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> /home/najd-dev/Documents/play-java/target/scala-2.11/classes/router/Routes$$anonfun$routes$1$$anonfun$applyOrElse$6.class
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> /home/najd-dev/Documents/play-java/target/scala-2.11/classes/router/Routes$$anonfun$routes$1$$anonfun$applyOrElse$7$$anonfun$apply$7.class
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> /home/najd-dev/Documents/play-java/target/scala-2.11/classes/router/Routes$$anonfun$routes$1$$anonfun$applyOrElse$7.class
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> /home/najd-dev/Documents/play-java/target/scala-2.11/classes/router/Routes$$anonfun$routes$1$$anonfun$applyOrElse$8$$anonfun$apply$8.class
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> /home/najd-dev/Documents/play-java/target/scala-2.11/classes/router/Routes$$anonfun$routes$1$$anonfun$applyOrElse$8.class
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> /home/najd-dev/Documents/play-java/target/scala-2.11/classes/router/Routes$$anonfun$routes$1.class
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> /home/najd-dev/Documents/play-java/target/scala-2.11/classes/router/Routes.class
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/RoutesPrefix.scala -> /home/najd-dev/Documents/play-java/target/scala-2.11/classes/router/RoutesPrefix$$anonfun$1.class
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/RoutesPrefix.scala -> /home/najd-dev/Documents/play-java/target/scala-2.11/classes/router/RoutesPrefix$.class
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/RoutesPrefix.scala -> /home/najd-dev/Documents/play-java/target/scala-2.11/classes/router/RoutesPrefix.class
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/index.template.scala -> /home/najd-dev/Documents/play-java/target/scala-2.11/classes/views/html/index$.class
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/index.template.scala -> /home/najd-dev/Documents/play-java/target/scala-2.11/classes/views/html/index.class
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/index.template.scala -> /home/najd-dev/Documents/play-java/target/scala-2.11/classes/views/html/index_Scope0$.class
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/index.template.scala -> /home/najd-dev/Documents/play-java/target/scala-2.11/classes/views/html/index_Scope0$index$$anonfun$f$1.class
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/index.template.scala -> /home/najd-dev/Documents/play-java/target/scala-2.11/classes/views/html/index_Scope0$index.class
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/index.template.scala -> /home/najd-dev/Documents/play-java/target/scala-2.11/classes/views/html/index_Scope0.class
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/main.template.scala -> /home/najd-dev/Documents/play-java/target/scala-2.11/classes/views/html/main$.class
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/main.template.scala -> /home/najd-dev/Documents/play-java/target/scala-2.11/classes/views/html/main.class
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/main.template.scala -> /home/najd-dev/Documents/play-java/target/scala-2.11/classes/views/html/main_Scope0$.class
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/main.template.scala -> /home/najd-dev/Documents/play-java/target/scala-2.11/classes/views/html/main_Scope0$main$$anonfun$f$1$$anonfun$apply$1.class
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/main.template.scala -> /home/najd-dev/Documents/play-java/target/scala-2.11/classes/views/html/main_Scope0$main$$anonfun$f$1.class
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/main.template.scala -> /home/najd-dev/Documents/play-java/target/scala-2.11/classes/views/html/main_Scope0$main.class
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/main.template.scala -> /home/najd-dev/Documents/play-java/target/scala-2.11/classes/views/html/main_Scope0.class
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/template.template.scala -> /home/najd-dev/Documents/play-java/target/scala-2.11/classes/views/html/template$.class
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/template.template.scala -> /home/najd-dev/Documents/play-java/target/scala-2.11/classes/views/html/template.class
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/template.template.scala -> /home/najd-dev/Documents/play-java/target/scala-2.11/classes/views/html/template_Scope0$.class
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/template.template.scala -> /home/najd-dev/Documents/play-java/target/scala-2.11/classes/views/html/template_Scope0$template$$anonfun$f$1.class
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/template.template.scala -> /home/najd-dev/Documents/play-java/target/scala-2.11/classes/views/html/template_Scope0$template.class
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/template.template.scala -> /home/najd-dev/Documents/play-java/target/scala-2.11/classes/views/html/template_Scope0.class
+binary dependencies:
+37 items
+/home/najd-dev/Documents/play-java/app/controllers/BookController.java -> /root/.ivy2/cache/com.fasterxml.jackson.core/jackson-databind/bundles/jackson-databind-2.7.8.jar
+/home/najd-dev/Documents/play-java/app/controllers/BookController.java -> /root/.ivy2/cache/com.typesafe.play/play-json_2.11/jars/play-json_2.11-2.5.12.jar
+/home/najd-dev/Documents/play-java/app/controllers/BookController.java -> /root/.ivy2/cache/com.typesafe.play/play_2.11/jars/play_2.11-2.5.12.jar
+/home/najd-dev/Documents/play-java/app/controllers/BookController.java -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+/home/najd-dev/Documents/play-java/app/models/Book.java -> /root/.ivy2/cache/com.typesafe.play/play-java_2.11/jars/play-java_2.11-2.5.12.jar
+/home/najd-dev/Documents/play-java/app/models/Book.java -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+/home/najd-dev/Documents/play-java/app/models/BookDAO.java -> /root/.ivy2/cache/com.typesafe.play/play-java-jpa_2.11/jars/play-java-jpa_2.11-2.5.12.jar
+/home/najd-dev/Documents/play-java/app/models/BookDAO.java -> /root/.ivy2/cache/org.hibernate.javax.persistence/hibernate-jpa-2.1-api/jars/hibernate-jpa-2.1-api-1.0.0.Final.jar
+/home/najd-dev/Documents/play-java/app/models/BookDAO.java -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+/home/najd-dev/Documents/play-java/app/models/BookService.java -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> /root/.ivy2/cache/com.typesafe.play/play_2.11/jars/play_2.11-2.5.12.jar
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> /root/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> /root/.ivy2/cache/com.typesafe.play/play_2.11/jars/play_2.11-2.5.12.jar
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> /root/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/controllers/routes.java -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> /root/.ivy2/cache/com.typesafe.play/play_2.11/jars/play_2.11-2.5.12.jar
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> /root/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/RoutesPrefix.scala -> /root/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/RoutesPrefix.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/index.template.scala -> /root/.ivy2/cache/com.typesafe.play/play-java_2.11/jars/play-java_2.11-2.5.12.jar
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/index.template.scala -> /root/.ivy2/cache/com.typesafe.play/play_2.11/jars/play_2.11-2.5.12.jar
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/index.template.scala -> /root/.ivy2/cache/com.typesafe.play/twirl-api_2.11/jars/twirl-api_2.11-1.1.1.jar
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/index.template.scala -> /root/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/index.template.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/main.template.scala -> /root/.ivy2/cache/com.typesafe.play/play-java_2.11/jars/play-java_2.11-2.5.12.jar
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/main.template.scala -> /root/.ivy2/cache/com.typesafe.play/play_2.11/jars/play_2.11-2.5.12.jar
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/main.template.scala -> /root/.ivy2/cache/com.typesafe.play/twirl-api_2.11/jars/twirl-api_2.11-1.1.1.jar
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/main.template.scala -> /root/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/main.template.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/template.template.scala -> /root/.ivy2/cache/com.typesafe.play/play-java_2.11/jars/play-java_2.11-2.5.12.jar
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/template.template.scala -> /root/.ivy2/cache/com.typesafe.play/play_2.11/jars/play_2.11-2.5.12.jar
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/template.template.scala -> /root/.ivy2/cache/com.typesafe.play/twirl-api_2.11/jars/twirl-api_2.11-1.1.1.jar
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/template.template.scala -> /root/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/template.template.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+20 items
+/home/najd-dev/Documents/play-java/app/controllers/BookController.java -> /home/najd-dev/Documents/play-java/app/controllers/BookController.java
+/home/najd-dev/Documents/play-java/app/controllers/BookController.java -> /home/najd-dev/Documents/play-java/app/models/Book.java
+/home/najd-dev/Documents/play-java/app/controllers/BookController.java -> /home/najd-dev/Documents/play-java/app/models/BookService.java
+/home/najd-dev/Documents/play-java/app/controllers/BookController.java -> /home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/index.template.scala
+/home/najd-dev/Documents/play-java/app/controllers/BookController.java -> /home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/template.template.scala
+/home/najd-dev/Documents/play-java/app/models/Book.java -> /home/najd-dev/Documents/play-java/app/models/Book.java
+/home/najd-dev/Documents/play-java/app/models/BookDAO.java -> /home/najd-dev/Documents/play-java/app/models/Book.java
+/home/najd-dev/Documents/play-java/app/models/BookDAO.java -> /home/najd-dev/Documents/play-java/app/models/BookDAO.java
+/home/najd-dev/Documents/play-java/app/models/BookService.java -> /home/najd-dev/Documents/play-java/app/models/Book.java
+/home/najd-dev/Documents/play-java/app/models/BookService.java -> /home/najd-dev/Documents/play-java/app/models/BookDAO.java
+/home/najd-dev/Documents/play-java/app/models/BookService.java -> /home/najd-dev/Documents/play-java/app/models/BookService.java
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/controllers/routes.java -> /home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/controllers/routes.java -> /home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/controllers/routes.java -> /home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/controllers/routes.java
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/controllers/routes.java -> /home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/RoutesPrefix.scala
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> /home/najd-dev/Documents/play-java/app/controllers/BookController.java
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> /home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/RoutesPrefix.scala
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/index.template.scala -> /home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/main.template.scala
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/main.template.scala -> /home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/main.template.scala -> /home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/controllers/routes.java
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+59 items
+/home/najd-dev/Documents/play-java/app/controllers/BookController.java -> controllers.BookController
+/home/najd-dev/Documents/play-java/app/models/Book.java -> models.Book
+/home/najd-dev/Documents/play-java/app/models/BookDAO.java -> models.BookDAO
+/home/najd-dev/Documents/play-java/app/models/BookService.java -> models.BookService
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> controllers.ReverseAssets
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> controllers.ReverseBookController
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> controllers.javascript.ReverseAssets
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> controllers.javascript.ReverseBookController
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/controllers/routes.java -> controllers.routes
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/controllers/routes.java -> controllers.routes$javascript
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> router.Routes
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> router.Routes$$anonfun$documentation$1
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> router.Routes$$anonfun$router$Routes$$controllers_Assets_at7_invoker$1
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> router.Routes$$anonfun$router$Routes$$controllers_BookController_createBook4_invoker$1
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> router.Routes$$anonfun$router$Routes$$controllers_BookController_deleteBookById6_invoker$1
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> router.Routes$$anonfun$router$Routes$$controllers_BookController_getbookById3_invoker$1
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> router.Routes$$anonfun$router$Routes$$controllers_BookController_index0_invoker$1
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> router.Routes$$anonfun$router$Routes$$controllers_BookController_listBooks2_invoker$1
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> router.Routes$$anonfun$router$Routes$$controllers_BookController_template1_invoker$1
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> router.Routes$$anonfun$router$Routes$$controllers_BookController_updateBook5_invoker$1
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> router.Routes$$anonfun$routes$1
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> router.Routes$$anonfun$routes$1$$anonfun$applyOrElse$1
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> router.Routes$$anonfun$routes$1$$anonfun$applyOrElse$1$$anonfun$apply$1
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> router.Routes$$anonfun$routes$1$$anonfun$applyOrElse$2
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> router.Routes$$anonfun$routes$1$$anonfun$applyOrElse$2$$anonfun$apply$2
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> router.Routes$$anonfun$routes$1$$anonfun$applyOrElse$3
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> router.Routes$$anonfun$routes$1$$anonfun$applyOrElse$3$$anonfun$apply$3
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> router.Routes$$anonfun$routes$1$$anonfun$applyOrElse$4
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> router.Routes$$anonfun$routes$1$$anonfun$applyOrElse$4$$anonfun$apply$4
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> router.Routes$$anonfun$routes$1$$anonfun$applyOrElse$5
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> router.Routes$$anonfun$routes$1$$anonfun$applyOrElse$5$$anonfun$apply$5
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> router.Routes$$anonfun$routes$1$$anonfun$applyOrElse$6
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> router.Routes$$anonfun$routes$1$$anonfun$applyOrElse$6$$anonfun$apply$6
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> router.Routes$$anonfun$routes$1$$anonfun$applyOrElse$7
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> router.Routes$$anonfun$routes$1$$anonfun$applyOrElse$7$$anonfun$apply$7
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> router.Routes$$anonfun$routes$1$$anonfun$applyOrElse$8
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> router.Routes$$anonfun$routes$1$$anonfun$applyOrElse$8$$anonfun$apply$8
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/RoutesPrefix.scala -> router.RoutesPrefix
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/RoutesPrefix.scala -> router.RoutesPrefix$
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/RoutesPrefix.scala -> router.RoutesPrefix$$anonfun$1
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/index.template.scala -> views.html.index
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/index.template.scala -> views.html.index$
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/index.template.scala -> views.html.index_Scope0
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/index.template.scala -> views.html.index_Scope0$
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/index.template.scala -> views.html.index_Scope0$index
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/index.template.scala -> views.html.index_Scope0$index$$anonfun$f$1
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/main.template.scala -> views.html.main
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/main.template.scala -> views.html.main$
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/main.template.scala -> views.html.main_Scope0
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/main.template.scala -> views.html.main_Scope0$
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/main.template.scala -> views.html.main_Scope0$main
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/main.template.scala -> views.html.main_Scope0$main$$anonfun$f$1
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/main.template.scala -> views.html.main_Scope0$main$$anonfun$f$1$$anonfun$apply$1
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/template.template.scala -> views.html.template
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/template.template.scala -> views.html.template$
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/template.template.scala -> views.html.template_Scope0
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/template.template.scala -> views.html.template_Scope0$
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/template.template.scala -> views.html.template_Scope0$template
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/template.template.scala -> views.html.template_Scope0$template$$anonfun$f$1
+used names:
+439 items
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> +
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> <byname>
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> <init>
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> <repeated>
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> A
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> Any
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> AnyRef
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> Asset
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> Assets
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> B
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> Boolean
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> Call
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> F
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> HandlerDef
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> Integer
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> JavascriptLiteral
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> Map
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> Nothing
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> Object
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> PathBindable
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> Predef
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> QueryStringBindable
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> ReverseAssets
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> ReverseBookController
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> ReverseRouteContext
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> String
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> T
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> T1
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> T2
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> Tuple2
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> _defaultPrefix
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> _prefix
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> _root_
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> api
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> apply
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> bindableJavaInteger
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> bindableString
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> controllers
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> core
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> dynamicString
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> empty
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> endsWith
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> file
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> id
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> implicitly
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> java
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> lang
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> libs
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> mvc
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> play
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> queryString
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> routing
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> scala
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> unbind
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> +
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> <byname>
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> <init>
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> Any
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> AnyRef
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> Asset
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> Assets
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> Boolean
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> Call
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> F
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> HandlerDef
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> Integer
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> JavaScriptReverseRoute
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> JavascriptLiteral
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> Nothing
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> Object
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> PathBindable
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> Predef
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> QueryStringBindable
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> ReverseAssets
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> ReverseBookController
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> ReverseRouteContext
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> String
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> T
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> _defaultPrefix
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> _prefix
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> _root_
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> api
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> bindableJavaInteger
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> bindableString
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> controllers
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> core
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> dynamicString
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> empty
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> endsWith
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> implicitly
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> java
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> javascript
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> javascriptUnbind
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> lang
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> libs
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> mvc
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> play
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> queryString
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> routing
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> scala
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> +
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> ++
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> :+
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> <byname>
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> <init>
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> <refinement>
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> <repeated>
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> ?0
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> A
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> A1
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> A2
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> AbstractPartialFunction
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> Action
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> Any
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> AnyContent
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> AnyRef
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> Asset
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> Assets
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> Assets_1
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> B
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> B1
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> BookController
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> BookController_0
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> Boolean
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> CanBuildFrom
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> Class
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> ClassLoader
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> Coll
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> DynamicPart
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> Either
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> F
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> Function1
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> Function2
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> GenTraversableOnce
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> GeneratedRouter
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> Handler
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> HandlerDef
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> HandlerInvoker
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> HandlerInvokerFactory
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> HttpErrorHandler
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> Integer
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> List
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> Nil
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> None
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> Nothing
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> Object
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> Option
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> P
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> Param
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> ParamsExtractor
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> PartialFunction
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> PathBindable
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> PathPart
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> PathPattern
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> Predef
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> Product
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> RequestHeader
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> Result
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> ReverseRouteContext
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> Right
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> Route
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> RouteParams
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> Routes
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> RoutesPrefix
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> Seq
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> Serializable
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> StaticPart
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> String
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> T
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> T0
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> T1
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> T2
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> T3
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> That
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> Tuple3
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> Unit
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> _$1
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> api
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> apply
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> asInstanceOf
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> at
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> bindableJavaInteger
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> bindableString
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> call
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> canBuildFrom
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> collection
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> controllers
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> controllers_Assets_at7_invoker
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> controllers_Assets_at7_route
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> controllers_BookController_createBook4_invoker
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> controllers_BookController_createBook4_route
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> controllers_BookController_deleteBookById6_invoker
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> controllers_BookController_deleteBookById6_route
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> controllers_BookController_getbookById3_invoker
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> controllers_BookController_getbookById3_route
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> controllers_BookController_index0_invoker
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> controllers_BookController_index0_route
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> controllers_BookController_listBooks2_invoker
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> controllers_BookController_listBooks2_route
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> controllers_BookController_template1_invoker
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> controllers_BookController_template1_route
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> controllers_BookController_updateBook5_invoker
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> controllers_BookController_updateBook5_route
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> core
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> createBook
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> createInvoker
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> defaultPrefix
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> deleteBookById
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> e
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> empty
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> endsWith
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> errorHandler
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> fakeValue
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> file
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> foldLeft
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> fromPath
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> get
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> getClass
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> getClassLoader
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> getbookById
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> http
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> id
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> immutable
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> index
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> isEmpty
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> isInstanceOf
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> j
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> java
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> lang
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> libs
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> listBooks
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> mvc
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> package
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> params
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> passThrough
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> path
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> play
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> prefix
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> router
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> routing
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> s
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> scala
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> setPrefix
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> template
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> unapply
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> unary_!
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> unchecked
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> updateBook
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> wrapJava
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/RoutesPrefix.scala -> <init>
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/RoutesPrefix.scala -> AnyRef
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/RoutesPrefix.scala -> Function0
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/RoutesPrefix.scala -> Object
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/RoutesPrefix.scala -> Predef
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/RoutesPrefix.scala -> RoutesPrefix
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/RoutesPrefix.scala -> String
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/RoutesPrefix.scala -> Unit
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/RoutesPrefix.scala -> _prefix
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/RoutesPrefix.scala -> _prefix_=
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/RoutesPrefix.scala -> byNamePrefix
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/RoutesPrefix.scala -> p
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/RoutesPrefix.scala -> prefix
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/RoutesPrefix.scala -> router
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/RoutesPrefix.scala -> scala
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/index.template.scala -> <init>
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/index.template.scala -> <repeated>
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/index.template.scala -> A
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/index.template.scala -> Any
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/index.template.scala -> AnyRef
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/index.template.scala -> Appendable
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/index.template.scala -> BaseScalaTemplate
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/index.template.scala -> Context
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/index.template.scala -> Field
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/index.template.scala -> Format
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/index.template.scala -> Function0
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/index.template.scala -> Html
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/index.template.scala -> HtmlFormat
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/index.template.scala -> Http
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/index.template.scala -> Implicit
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/index.template.scala -> JavaConversions
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/index.template.scala -> JavaConverters
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/index.template.scala -> Manifest
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/index.template.scala -> ManifestFactory
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/index.template.scala -> Nothing
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/index.template.scala -> Object
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/index.template.scala -> PlayMagic
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/index.template.scala -> PlayMagicForJava
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/index.template.scala -> Predef
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/index.template.scala -> Seq
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/index.template.scala -> String
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/index.template.scala -> T
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/index.template.scala -> Template0
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/index.template.scala -> TemplateMagic
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/index.template.scala -> _display_
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/index.template.scala -> _root_
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/index.template.scala -> api
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/index.template.scala -> apply
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/index.template.scala -> classType
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/index.template.scala -> collection
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/index.template.scala -> controllers
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/index.template.scala -> core
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/index.template.scala -> data
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/index.template.scala -> format
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/index.template.scala -> html
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/index.template.scala -> i18n
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/index.template.scala -> index
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/index.template.scala -> index_Scope0
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/index.template.scala -> j
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/index.template.scala -> java
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/index.template.scala -> lang
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/index.template.scala -> main
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/index.template.scala -> models
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/index.template.scala -> mvc
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/index.template.scala -> play
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/index.template.scala -> raw
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/index.template.scala -> reflect
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/index.template.scala -> scala
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/index.template.scala -> templates
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/index.template.scala -> twirl
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/index.template.scala -> util
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/index.template.scala -> views
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/main.template.scala -> <init>
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/main.template.scala -> <repeated>
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/main.template.scala -> A
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/main.template.scala -> Any
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/main.template.scala -> AnyRef
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/main.template.scala -> Appendable
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/main.template.scala -> Assets
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/main.template.scala -> BaseScalaTemplate
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/main.template.scala -> Call
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/main.template.scala -> Context
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/main.template.scala -> Field
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/main.template.scala -> Format
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/main.template.scala -> Function1
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/main.template.scala -> Html
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/main.template.scala -> HtmlFormat
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/main.template.scala -> Http
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/main.template.scala -> Implicit
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/main.template.scala -> JavaConversions
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/main.template.scala -> JavaConverters
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/main.template.scala -> Manifest
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/main.template.scala -> ManifestFactory
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/main.template.scala -> Nothing
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/main.template.scala -> Object
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/main.template.scala -> PlayMagic
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/main.template.scala -> PlayMagicForJava
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/main.template.scala -> Predef
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/main.template.scala -> ReverseAssets
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/main.template.scala -> Seq
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/main.template.scala -> String
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/main.template.scala -> T
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/main.template.scala -> Template2
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/main.template.scala -> TemplateMagic
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/main.template.scala -> _display_
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/main.template.scala -> _root_
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/main.template.scala -> api
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/main.template.scala -> apply
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/main.template.scala -> at
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/main.template.scala -> classType
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/main.template.scala -> collection
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/main.template.scala -> content
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/main.template.scala -> controllers
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/main.template.scala -> core
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/main.template.scala -> data
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/main.template.scala -> format
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/main.template.scala -> html
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/main.template.scala -> i18n
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/main.template.scala -> j
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/main.template.scala -> java
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/main.template.scala -> lang
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/main.template.scala -> main
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/main.template.scala -> main_Scope0
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/main.template.scala -> models
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/main.template.scala -> mvc
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/main.template.scala -> play
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/main.template.scala -> raw
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/main.template.scala -> reflect
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/main.template.scala -> routes
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/main.template.scala -> scala
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/main.template.scala -> templates
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/main.template.scala -> title
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/main.template.scala -> twirl
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/main.template.scala -> util
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/main.template.scala -> views
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/template.template.scala -> <init>
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/template.template.scala -> <repeated>
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/template.template.scala -> A
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/template.template.scala -> Any
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/template.template.scala -> AnyRef
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/template.template.scala -> Appendable
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/template.template.scala -> BaseScalaTemplate
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/template.template.scala -> Context
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/template.template.scala -> Field
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/template.template.scala -> Format
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/template.template.scala -> Function0
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/template.template.scala -> HtmlFormat
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/template.template.scala -> Http
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/template.template.scala -> Implicit
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/template.template.scala -> JavaConversions
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/template.template.scala -> JavaConverters
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/template.template.scala -> Manifest
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/template.template.scala -> ManifestFactory
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/template.template.scala -> Nothing
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/template.template.scala -> Object
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/template.template.scala -> PlayMagic
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/template.template.scala -> PlayMagicForJava
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/template.template.scala -> Predef
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/template.template.scala -> Seq
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/template.template.scala -> String
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/template.template.scala -> T
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/template.template.scala -> Template0
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/template.template.scala -> TemplateMagic
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/template.template.scala -> _display_
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/template.template.scala -> _root_
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/template.template.scala -> api
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/template.template.scala -> apply
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/template.template.scala -> classType
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/template.template.scala -> collection
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/template.template.scala -> controllers
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/template.template.scala -> core
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/template.template.scala -> data
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/template.template.scala -> format
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/template.template.scala -> html
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/template.template.scala -> i18n
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/template.template.scala -> j
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/template.template.scala -> java
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/template.template.scala -> lang
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/template.template.scala -> models
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/template.template.scala -> mvc
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/template.template.scala -> play
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/template.template.scala -> raw
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/template.template.scala -> reflect
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/template.template.scala -> scala
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/template.template.scala -> template
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/template.template.scala -> template_Scope0
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/template.template.scala -> templates
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/template.template.scala -> twirl
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/template.template.scala -> util
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/template.template.scala -> views
+product stamps:
+59 items
+/home/najd-dev/Documents/play-java/target/scala-2.11/classes/controllers/BookController.class -> lastModified(1489289214000)
+/home/najd-dev/Documents/play-java/target/scala-2.11/classes/controllers/ReverseAssets.class -> lastModified(1489289214000)
+/home/najd-dev/Documents/play-java/target/scala-2.11/classes/controllers/ReverseBookController.class -> lastModified(1489289214000)
+/home/najd-dev/Documents/play-java/target/scala-2.11/classes/controllers/javascript/ReverseAssets.class -> lastModified(1489289214000)
+/home/najd-dev/Documents/play-java/target/scala-2.11/classes/controllers/javascript/ReverseBookController.class -> lastModified(1489289214000)
+/home/najd-dev/Documents/play-java/target/scala-2.11/classes/controllers/routes$javascript.class -> lastModified(1489289214000)
+/home/najd-dev/Documents/play-java/target/scala-2.11/classes/controllers/routes.class -> lastModified(1489289214000)
+/home/najd-dev/Documents/play-java/target/scala-2.11/classes/models/Book.class -> lastModified(1489289214000)
+/home/najd-dev/Documents/play-java/target/scala-2.11/classes/models/BookDAO.class -> lastModified(1489289214000)
+/home/najd-dev/Documents/play-java/target/scala-2.11/classes/models/BookService.class -> lastModified(1489289214000)
+/home/najd-dev/Documents/play-java/target/scala-2.11/classes/router/Routes$$anonfun$documentation$1.class -> lastModified(1489289214000)
+/home/najd-dev/Documents/play-java/target/scala-2.11/classes/router/Routes$$anonfun$router$Routes$$controllers_Assets_at7_invoker$1.class -> lastModified(1489289214000)
+/home/najd-dev/Documents/play-java/target/scala-2.11/classes/router/Routes$$anonfun$router$Routes$$controllers_BookController_createBook4_invoker$1.class -> lastModified(1489289214000)
+/home/najd-dev/Documents/play-java/target/scala-2.11/classes/router/Routes$$anonfun$router$Routes$$controllers_BookController_deleteBookById6_invoker$1.class -> lastModified(1489289214000)
+/home/najd-dev/Documents/play-java/target/scala-2.11/classes/router/Routes$$anonfun$router$Routes$$controllers_BookController_getbookById3_invoker$1.class -> lastModified(1489289214000)
+/home/najd-dev/Documents/play-java/target/scala-2.11/classes/router/Routes$$anonfun$router$Routes$$controllers_BookController_index0_invoker$1.class -> lastModified(1489289214000)
+/home/najd-dev/Documents/play-java/target/scala-2.11/classes/router/Routes$$anonfun$router$Routes$$controllers_BookController_listBooks2_invoker$1.class -> lastModified(1489289214000)
+/home/najd-dev/Documents/play-java/target/scala-2.11/classes/router/Routes$$anonfun$router$Routes$$controllers_BookController_template1_invoker$1.class -> lastModified(1489289214000)
+/home/najd-dev/Documents/play-java/target/scala-2.11/classes/router/Routes$$anonfun$router$Routes$$controllers_BookController_updateBook5_invoker$1.class -> lastModified(1489289214000)
+/home/najd-dev/Documents/play-java/target/scala-2.11/classes/router/Routes$$anonfun$routes$1$$anonfun$applyOrElse$1$$anonfun$apply$1.class -> lastModified(1489289214000)
+/home/najd-dev/Documents/play-java/target/scala-2.11/classes/router/Routes$$anonfun$routes$1$$anonfun$applyOrElse$1.class -> lastModified(1489289214000)
+/home/najd-dev/Documents/play-java/target/scala-2.11/classes/router/Routes$$anonfun$routes$1$$anonfun$applyOrElse$2$$anonfun$apply$2.class -> lastModified(1489289214000)
+/home/najd-dev/Documents/play-java/target/scala-2.11/classes/router/Routes$$anonfun$routes$1$$anonfun$applyOrElse$2.class -> lastModified(1489289214000)
+/home/najd-dev/Documents/play-java/target/scala-2.11/classes/router/Routes$$anonfun$routes$1$$anonfun$applyOrElse$3$$anonfun$apply$3.class -> lastModified(1489289214000)
+/home/najd-dev/Documents/play-java/target/scala-2.11/classes/router/Routes$$anonfun$routes$1$$anonfun$applyOrElse$3.class -> lastModified(1489289214000)
+/home/najd-dev/Documents/play-java/target/scala-2.11/classes/router/Routes$$anonfun$routes$1$$anonfun$applyOrElse$4$$anonfun$apply$4.class -> lastModified(1489289214000)
+/home/najd-dev/Documents/play-java/target/scala-2.11/classes/router/Routes$$anonfun$routes$1$$anonfun$applyOrElse$4.class -> lastModified(1489289214000)
+/home/najd-dev/Documents/play-java/target/scala-2.11/classes/router/Routes$$anonfun$routes$1$$anonfun$applyOrElse$5$$anonfun$apply$5.class -> lastModified(1489289214000)
+/home/najd-dev/Documents/play-java/target/scala-2.11/classes/router/Routes$$anonfun$routes$1$$anonfun$applyOrElse$5.class -> lastModified(1489289214000)
+/home/najd-dev/Documents/play-java/target/scala-2.11/classes/router/Routes$$anonfun$routes$1$$anonfun$applyOrElse$6$$anonfun$apply$6.class -> lastModified(1489289214000)
+/home/najd-dev/Documents/play-java/target/scala-2.11/classes/router/Routes$$anonfun$routes$1$$anonfun$applyOrElse$6.class -> lastModified(1489289214000)
+/home/najd-dev/Documents/play-java/target/scala-2.11/classes/router/Routes$$anonfun$routes$1$$anonfun$applyOrElse$7$$anonfun$apply$7.class -> lastModified(1489289214000)
+/home/najd-dev/Documents/play-java/target/scala-2.11/classes/router/Routes$$anonfun$routes$1$$anonfun$applyOrElse$7.class -> lastModified(1489289214000)
+/home/najd-dev/Documents/play-java/target/scala-2.11/classes/router/Routes$$anonfun$routes$1$$anonfun$applyOrElse$8$$anonfun$apply$8.class -> lastModified(1489289214000)
+/home/najd-dev/Documents/play-java/target/scala-2.11/classes/router/Routes$$anonfun$routes$1$$anonfun$applyOrElse$8.class -> lastModified(1489289214000)
+/home/najd-dev/Documents/play-java/target/scala-2.11/classes/router/Routes$$anonfun$routes$1.class -> lastModified(1489289214000)
+/home/najd-dev/Documents/play-java/target/scala-2.11/classes/router/Routes.class -> lastModified(1489289214000)
+/home/najd-dev/Documents/play-java/target/scala-2.11/classes/router/RoutesPrefix$$anonfun$1.class -> lastModified(1489289214000)
+/home/najd-dev/Documents/play-java/target/scala-2.11/classes/router/RoutesPrefix$.class -> lastModified(1489289214000)
+/home/najd-dev/Documents/play-java/target/scala-2.11/classes/router/RoutesPrefix.class -> lastModified(1489289214000)
+/home/najd-dev/Documents/play-java/target/scala-2.11/classes/views/html/index$.class -> lastModified(1489290032000)
+/home/najd-dev/Documents/play-java/target/scala-2.11/classes/views/html/index.class -> lastModified(1489290032000)
+/home/najd-dev/Documents/play-java/target/scala-2.11/classes/views/html/index_Scope0$.class -> lastModified(1489290032000)
+/home/najd-dev/Documents/play-java/target/scala-2.11/classes/views/html/index_Scope0$index$$anonfun$f$1.class -> lastModified(1489290032000)
+/home/najd-dev/Documents/play-java/target/scala-2.11/classes/views/html/index_Scope0$index.class -> lastModified(1489290032000)
+/home/najd-dev/Documents/play-java/target/scala-2.11/classes/views/html/index_Scope0.class -> lastModified(1489290032000)
+/home/najd-dev/Documents/play-java/target/scala-2.11/classes/views/html/main$.class -> lastModified(1489289214000)
+/home/najd-dev/Documents/play-java/target/scala-2.11/classes/views/html/main.class -> lastModified(1489289214000)
+/home/najd-dev/Documents/play-java/target/scala-2.11/classes/views/html/main_Scope0$.class -> lastModified(1489289214000)
+/home/najd-dev/Documents/play-java/target/scala-2.11/classes/views/html/main_Scope0$main$$anonfun$f$1$$anonfun$apply$1.class -> lastModified(1489289214000)
+/home/najd-dev/Documents/play-java/target/scala-2.11/classes/views/html/main_Scope0$main$$anonfun$f$1.class -> lastModified(1489289214000)
+/home/najd-dev/Documents/play-java/target/scala-2.11/classes/views/html/main_Scope0$main.class -> lastModified(1489289214000)
+/home/najd-dev/Documents/play-java/target/scala-2.11/classes/views/html/main_Scope0.class -> lastModified(1489289214000)
+/home/najd-dev/Documents/play-java/target/scala-2.11/classes/views/html/template$.class -> lastModified(1489289286000)
+/home/najd-dev/Documents/play-java/target/scala-2.11/classes/views/html/template.class -> lastModified(1489289286000)
+/home/najd-dev/Documents/play-java/target/scala-2.11/classes/views/html/template_Scope0$.class -> lastModified(1489289286000)
+/home/najd-dev/Documents/play-java/target/scala-2.11/classes/views/html/template_Scope0$template$$anonfun$f$1.class -> lastModified(1489289286000)
+/home/najd-dev/Documents/play-java/target/scala-2.11/classes/views/html/template_Scope0$template.class -> lastModified(1489289286000)
+/home/najd-dev/Documents/play-java/target/scala-2.11/classes/views/html/template_Scope0.class -> lastModified(1489289286000)
+source stamps:
+12 items
+/home/najd-dev/Documents/play-java/app/controllers/BookController.java -> hash(e5646023ddff39459ede36ce0af59c6924a1ff93)
+/home/najd-dev/Documents/play-java/app/models/Book.java -> hash(bae22160eba523c9db45b9a496cda9b6a858ae76)
+/home/najd-dev/Documents/play-java/app/models/BookDAO.java -> hash(4623e379650d8d9a9d57b198bb9d4f240274adcb)
+/home/najd-dev/Documents/play-java/app/models/BookService.java -> hash(79de30566d9cccf360f85d9b5bb6b9538b4d497e)
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> hash(bbd92b614314bc375c0343aa419ac76bb90aca69)
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> hash(7a9ace8b760348e7df398c0ec9fbb547d1f24aeb)
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/controllers/routes.java -> hash(4316990d983bee0eb0547fa66fd3b6ff859c1449)
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> hash(54933e174c3262d56ed1545393b23517472e55db)
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/RoutesPrefix.scala -> hash(374f78e84ee47259e4c0d7bd0d182ca29cc355d9)
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/index.template.scala -> hash(2ecbe4eb26b451779af7f7165c7a93ccc266a3e3)
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/main.template.scala -> hash(afbad3d7da32d531e53f50309051f8c5588b3a9c)
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/template.template.scala -> hash(916184ba18fa80518d2f1aa35eb5b7eb2acd4380)
+binary stamps:
+9 items
+/root/.ivy2/cache/com.fasterxml.jackson.core/jackson-databind/bundles/jackson-databind-2.7.8.jar -> lastModified(1474901469000)
+/root/.ivy2/cache/com.typesafe.play/play-java-jpa_2.11/jars/play-java-jpa_2.11-2.5.12.jar -> lastModified(1485129549000)
+/root/.ivy2/cache/com.typesafe.play/play-java_2.11/jars/play-java_2.11-2.5.12.jar -> lastModified(1485129580000)
+/root/.ivy2/cache/com.typesafe.play/play-json_2.11/jars/play-json_2.11-2.5.12.jar -> lastModified(1485129408000)
+/root/.ivy2/cache/com.typesafe.play/play_2.11/jars/play_2.11-2.5.12.jar -> lastModified(1485129564000)
+/root/.ivy2/cache/com.typesafe.play/twirl-api_2.11/jars/twirl-api_2.11-1.1.1.jar -> lastModified(1431579649000)
+/root/.ivy2/cache/org.hibernate.javax.persistence/hibernate-jpa-2.1-api/jars/hibernate-jpa-2.1-api-1.0.0.Final.jar -> lastModified(1374858104000)
+/root/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar -> lastModified(1477035196000)
+/usr/lib/jvm/java-8-oracle/jre/lib/rt.jar -> lastModified(1488813153000)
+class names:
+9 items
+/root/.ivy2/cache/com.fasterxml.jackson.core/jackson-databind/bundles/jackson-databind-2.7.8.jar -> com.fasterxml.jackson.databind.JsonNode
+/root/.ivy2/cache/com.typesafe.play/play-java-jpa_2.11/jars/play-java-jpa_2.11-2.5.12.jar -> play.db.jpa.JPA
+/root/.ivy2/cache/com.typesafe.play/play-java_2.11/jars/play-java_2.11-2.5.12.jar -> play.core.j.PlayMagicForJava$
+/root/.ivy2/cache/com.typesafe.play/play-json_2.11/jars/play-json_2.11-2.5.12.jar -> play.libs.Json
+/root/.ivy2/cache/com.typesafe.play/play_2.11/jars/play_2.11-2.5.12.jar -> play.api.data.Field
+/root/.ivy2/cache/com.typesafe.play/twirl-api_2.11/jars/twirl-api_2.11-1.1.1.jar -> play.twirl.api.BaseScalaTemplate
+/root/.ivy2/cache/org.hibernate.javax.persistence/hibernate-jpa-2.1-api/jars/hibernate-jpa-2.1-api-1.0.0.Final.jar -> javax.persistence.EntityManager
+/root/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar -> scala.collection.generic.GenericCompanion
+/usr/lib/jvm/java-8-oracle/jre/lib/rt.jar -> java.lang.Object
+internal apis:
+12 items
+/home/najd-dev/Documents/play-java/app/controllers/BookController.java -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhw5fuTlQAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAACsc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwsXDMh3QACmVudW1lcmF0b3JzcQB+AAyTvFPTdAAGbm90aWZ5c3EAfgAMVi7+PXQABEZST01zcQB+AAyl6DT5dAAQbW92ZWRQZXJtYW5lbnRseXNxAH4ADOBQrct0ABBDT05URU5UX0xBTkdVQUdFc3EAfgAMqcyndnQAB0NSRUFURURzcQB+AAyskiYMdAARdGVtcG9yYXJ5UmVkaXJlY3RzcQB+AAwJwb3ZdAAqUmVzdWx0cyRTdHJpbmdDaHVua3MkV2hlblJlYWR5U3RyaW5nQ2h1bmtzc3EAfgAM8WaqsHQAB1dBUk5JTkdzcQB+AAzAf5F8dAAIQ09OVElOVUVzcQB+AAy+hyOydAALU0VUX0NPT0tJRTJzcQB+AAxPFOU7dAARcGVybWFuZW50UmVkaXJlY3RzcQB+AAz9VS27dAAOQm9va0NvbnRyb2xsZXJzcQB+AAx8n0t+dAATQ09OVEVOVF9ESVNQT1NJVElPTnNxAH4ADEfXn8Z0AAdjaGFubmVsc3EAfgAMik2ShnQADENPTlRFTlRfVFlQRXNxAH4ADE3mYm10AApiYWRSZXF1ZXN0c3EAfgAM6lf2L3QABHdhaXRzcQB+AAxSiFmjdAAcQUNDRVNTX0NPTlRST0xfQUxMT1dfTUVUSE9EU3NxAH4ADFXWGaV0AApVU0VSX0FHRU5Uc3EAfgAM7+VVE3QAA2N0eHNxAH4ADEy2Yuh0AARIT1NUc3EAfgAMCF7J13QAC0NPTlRFTlRfTUQ1c3EAfgAMf6FkYXQAB3JlcXVlc3RzcQB+AAz/uS1BdAAQWF9GT1JXQVJERURfUE9SVHNxAH4ADNnna9l0AA9wYXltZW50UmVxdWlyZWRzcQB+AAzBi0J0dAALQkFEX1JFUVVFU1RzcQB+AAzA4ig1dAAMTUFYX0ZPUldBUkRTc3EAfgAM9ehArHQAEFhfRk9SV0FSREVEX0hPU1RzcQB+AAyWkc/VdAAOZGVsZXRlQm9va0J5SWRzcQB+AAzOuWdrdAAIcmVkaXJlY3RzcQB+AAxihctDdAAHVFJBSUxFUnNxAH4ADGeg4XF0ABJQUk9YWV9BVVRIRU5USUNBVEVzcQB+AAx/4pukdAANQVVUSE9SSVpBVElPTnNxAH4ADE2jxX90AA1DQUNIRV9DT05UUk9Mc3EAfgAMVo2EgHQAD05PVF9JTVBMRU1FTlRFRHNxAH4ADMwNPRR0AAZlcXVhbHNzcQB+AAyljEZZdAAQUEFZTUVOVF9SRVFVSVJFRHNxAH4ADKwHivV0AAtSRVRSWV9BRlRFUnNxAH4ADBzlmmp0ABNQUkVDT05ESVRJT05fRkFJTEVEc3EAfgAMd1jLEHQACENPTkZMSUNUc3EAfgAMQRAf7nQADkFDQ0VQVF9DSEFSU0VUc3EAfgAMvfr7eHQAJlJlc3VsdHMkQnl0ZUNodW5rcyRXaGVuUmVhZHlCeXRlQ2h1bmtzc3EAfgAMWsXBxHQAB29uUmVhZHlzcQB+AAwI7a/+dAADVklBc3EAfgAMCkE+BnQACmNyZWF0ZUJvb2tzcQB+AAzS6Q2IdAAPUkVRVUVTVF9USU1FT1VUc3EAfgAMPOfntXQAEE1VTFRJUExFX0NIT0lDRVNzcQB+AAxyHUvZdAAIbm90Rm91bmRzcQB+AAxpIxmQdAARTU9WRURfUEVSTUFORU5UTFlzcQB+AAyHdjbhdAACVEVzcQB+AAweta4+dAAQQ09OVEVOVF9MT0NBVElPTnNxAH4ADDmq3w50AA9QQVJUSUFMX0NPTlRFTlRzcQB+AAw5LP8RdAAUSU5TVUZGSUNJRU5UX1NUT1JBR0VzcQB+AAwhZCN6dAAERVRBR3NxAH4ADMbfUN10AA9MRU5HVEhfUkVRVUlSRURzcQB+AAxi8At/dAAMVU5BVVRIT1JJWkVEc3EAfgAMFDtEeXQAFlVOU1VQUE9SVEVEX01FRElBX1RZUEVzcQB+AAz7dllIdAAHUkVGRVJFUnNxAH4ADA7bBxJ0ABhSRVFVRVNUX0VOVElUWV9UT09fTEFSR0VzcQB+AAztcA/EdAAGT1JJR0lOc3EAfgAMP9QScHQAD0FDQ0VQVF9MQU5HVUFHRXNxAH4ADG4ONnR0AAxOT1RfTU9ESUZJRURzcQB+AAzXgKQldAAUUmVzdWx0cyRTdHJpbmdDaHVua3NzcQB+AAyrlo9vdAALZ2V0Ym9va0J5SWRzcQB+AAzQaM9sdAAaSFRUUF9WRVJTSU9OX05PVF9TVVBQT1JURURzcQB+AAz4gQdGdAAbQUNDRVNTX0NPTlRST0xfQUxMT1dfT1JJR0lOc3EAfgAM6xe5cXQACElGX1JBTkdFc3EAfgAMq9/N6HQAE0lGX1VOTU9ESUZJRURfU0lOQ0VzcQB+AAwYt780dAATU1dJVENISU5HX1BST1RPQ09MU3NxAH4ADPVues10ABJURU1QT1JBUllfUkVESVJFQ1RzcQB+AAwtKxWzdAAOQ09OVEVOVF9MRU5HVEhzcQB+AAw7dzXpdAAKU0VUX0NPT0tJRXNxAH4ADBumBbN0AAlub3RpZnlBbGxzcQB+AAxENelndAADQUdFc3EAfgAMqjc2R3QAC0JBRF9HQVRFV0FZc3EAfgAMTs6AV3QAEkVYUEVDVEFUSU9OX0ZBSUxFRHNxAH4ADOpTkpx0AApDT05ORUNUSU9Oc3EAfgAMWYn2tXQACUZPUldBUkRFRHNxAH4ADGNetgB0ABJSZXN1bHRzJEJ5dGVDaHVua3NzcQB+AAzi2ZNSdAASUmVzdWx0cyRDaHVua3MkT3V0c3EAfgAMDd1aNnQAAk9Lc3EAfgAMkpLWX3QAHEFDQ0VTU19DT05UUk9MX0FMTE9XX0hFQURFUlNzcQB+AAw3faQcdAAFZm91bmRzcQB+AAwoKno5dAAMdW5hdXRob3JpemVkc3EAfgAMVbWrGXQACHJlc3BvbnNlc3EAfgAM26hDDXQABUZPVU5Ec3EAfgAMB/SP5HQABjxpbml0PnNxAH4ADOYVzHV0AAREQVRFc3EAfgAM1JF5T3QADUNPTlRFTlRfUkFOR0VzcQB+AAxi7864dAARVFJBTlNGRVJfRU5DT0RJTkdzcQB+AAw5JAeddAASUEVSTUFORU5UX1JFRElSRUNUc3EAfgAM92sYNXQAEVRPT19NQU5ZX1JFUVVFU1RTc3EAfgAMU4mlH3QAE1BST1hZX0FVVEhPUklaQVRJT05zcQB+AAwW4DEmdAAER09ORXNxAH4ADKiMxdF0ACBBQ0NFU1NfQ09OVFJPTF9BTExPV19DUkVERU5USUFMU3NxAH4ADHxPAc50AAljbGVhckxhbmdzcQB+AAwRpSS0dAAOTk9UX0FDQ0VQVEFCTEVzcQB+AAwACAqUdAAGc3RhdHVzc3EAfgAMud/GqnQABkVYUEVDVHNxAH4ADPAGl990AAhMT0NBVElPTnNxAH4ADNEVBNx0AARWQVJZc3EAfgAMJf80U3QAEFdXV19BVVRIRU5USUNBVEVzcQB+AAy5nyeXdAAEVE9ET3NxAH4ADEHh/fl0AAlmb3JiaWRkZW5zcQB+AAx6Hc1odAAPWF9GT1JXQVJERURfRk9Sc3EAfgAMQ7vhHXQACmFjY2VzcyQwMDBzcQB+AAxzS49QdAAIQUNDRVBURURzcQB+AAwgsiqZdAAKTk9fQ09OVEVOVHNxAH4ADLihKWF0AAxkaXNjb25uZWN0ZWRzcQB+AAwwxkyGdAAVSU5URVJOQUxfU0VSVkVSX0VSUk9Sc3EAfgAMXyv7lXQADm9uRGlzY29ubmVjdGVkc3EAfgAMbFhPsXQAB1VQR1JBREVzcQB+AAyDIHEgdAAJTk9UX0ZPVU5Ec3EAfgAMHlcmynQAB3Nlc3Npb25zcQB+AAzuGcd4dAAPQUNDRVBUX0VOQ09ESU5Hc3EAfgAMQ6RezXQAB0VYUElSRVNzcQB+AAyNjmEHdAAIc2VlT3RoZXJzcQB+AAxB9RlGdAAfUkVRVUVTVEVEX1JBTkdFX05PVF9TQVRJU0ZJQUJMRXNxAH4ADEIjfER0AAh0ZW1wbGF0ZXNxAH4ADBVc+it0ABBVUEdSQURFX1JFUVVJUkVEc3EAfgAMB34prXQACHRvU3RyaW5nc3EAfgAM0JN653QABkFDQ0VQVHNxAH4ADH4GvK50AApjaGFuZ2VMYW5nc3EAfgAMWr6s9XQAD0dBVEVXQVlfVElNRU9VVHNxAH4ADBefOvd0AAl3aGVuUmVhZHlzcQB+AAyD/2SOdAAGU0VSVkVSc3EAfgAMgktEDXQAHUFDQ0VTU19DT05UUk9MX1JFUVVFU1RfTUVUSE9Ec3EAfgAMjww/G3QAFFVOUFJPQ0VTU0FCTEVfRU5USVRZc3EAfgAMzgmCHnQAFkFDQ0VTU19DT05UUk9MX01BWF9BR0VzcQB+AAzxPjgndAANTEFTVF9NT0RJRklFRHNxAH4ADHpYU250AB1BQ0NFU1NfQ09OVFJPTF9FWFBPU0VfSEVBREVSU3NxAH4ADBAKY4l0AB5BQ0NFU1NfQ09OVFJPTF9SRVFVRVNUX0hFQURFUlNzcQB+AAzg1SvddAAFZmxhc2hzcQB+AAyNo/+xdAATaW50ZXJuYWxTZXJ2ZXJFcnJvcnNxAH4ADCTS3E90AAJva3NxAH4ADH62Z1F0AAVBTExPV3NxAH4ADHO+8T90AAZDT09LSUVzcQB+AAyt2XN5dAARSUZfTU9ESUZJRURfU0lOQ0VzcQB+AAyneVFMdAAIZ2V0Q2xhc3NzcQB+AAy3yADndAAZQ09OVEVOVF9UUkFOU0ZFUl9FTkNPRElOR3NxAH4ADNIinkx0AARsYW5nc3EAfgAMxmE+nXQAHU5PTl9BVVRIT1JJVEFUSVZFX0lORk9STUFUSU9Oc3EAfgAMYbxYIHQABWNsb3Nlc3EAfgAMb9WbdXQACnVwZGF0ZUJvb2tzcQB+AAyMCiewdAAGUFJBR01Bc3EAfgAMZBrAYnQACElGX01BVENIc3EAfgAMzrCW+XQAHVBST1hZX0FVVEhFTlRJQ0FUSU9OX1JFUVVJUkVEc3EAfgAMHDaH8nQADVJFU0VUX0NPTlRFTlRzcQB+AAxv2mYvdAAJU0VFX09USEVSc3EAfgAMtHPH/HQAEUZBSUxFRF9ERVBFTkRFTkNZc3EAfgAMXYqugXQAEENPTlRFTlRfRU5DT0RJTkdzcQB+AAxNK0/fdAAFUkFOR0VzcQB+AAy1zzWidAAJVVNFX1BST1hZc3EAfgAM6UmEYHQADlJlc3VsdHMkQ2h1bmtzc3EAfgAM/qLNcHQAFFJFUVVFU1RfVVJJX1RPT19MT05Hc3EAfgAMITOXOHQACHdyaXRhYmxlc3EAfgAMIutqhnQABkxPQ0tFRHNxAH4ADCDVR2t0AAlGT1JCSURERU5zcQB+AAyhBQtrdAASTUVUSE9EX05PVF9BTExPV0VEc3EAfgAMii5J8nQABXdyaXRlc3EAfgAMWyVUj3QADUlGX05PTkVfTUFUQ0hzcQB+AAzKHks/dAANQUNDRVBUX1JBTkdFU3NxAH4ADChXGBh0AAlub0NvbnRlbnRzcQB+AAyU892vdAAQWF9SRVFVRVNURURfV0lUSHNxAH4ADBEtDMJ0ABFYX0ZPUldBUkRFRF9QUk9UT3NxAH4ADDM+4GB0AAxNVUxUSV9TVEFUVVNzcQB+AAyJsFKddAATU0VSVklDRV9VTkFWQUlMQUJMRXNxAH4ADKFWO4F0AAVpbmRleHNxAH4ADLdlB0l0AAdjcmVhdGVkc3EAfgAM6dd0nHQACGhhc2hDb2Rlc3EAfgAMCdCgh3QACWxpc3RCb29rc3NyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAJzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AW94cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0ABpjb250cm9sbGVycy5Cb29rQ29udHJvbGxlcnVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAA3QAGXBsYXkuZGIuanBhLlRyYW5zYWN0aW9uYWx0ABNqYXZheC5pbmplY3QuSW5qZWN0dAAMc2NhbGEudGhyb3dzc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AYpzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4Bb0wACWluaGVyaXRlZHEAfgFvTAAHcGFyZW50c3EAfgFveHEAfgGPc3EAfgGKdXEAfgFqAAAAAHNxAH4BinVxAH4BagAAAABzcQB+AYp1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAABXNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AY50AApDb250cm9sbGVyc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgGOc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARwbGF5c3EAfgGndAADbXZjc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AahzcQB+AZt0AAdSZXN1bHRzc3EAfgGfc3EAfgGidXEAfgGlAAAAA3NxAH4Bp3QABHBsYXlzcQB+Aad0AANtdmNxAH4BrnNxAH4Bm3QAC0h0dHAkU3RhdHVzc3EAfgGfc3EAfgGidXEAfgGlAAAAA3NxAH4Bp3QABHBsYXlzcQB+Aad0AANtdmNxAH4BrnNxAH4Bm3QAEEh0dHAkSGVhZGVyTmFtZXNzcQB+AZ9zcQB+AaJ1cQB+AaUAAAADc3EAfgGndAAEcGxheXNxAH4Bp3QAA212Y3EAfgGuc3EAfgGbdAAGT2JqZWN0c3EAfgGfc3EAfgGidXEAfgGlAAAAA3NxAH4Bp3QABGphdmFzcQB+Aad0AARsYW5ncQB+Aa5zcQB+AWxxAH4BeXEAfgF7cQB+AX1xAH4BfnEAfgGAfnEAfgGBdAAGTW9kdWxldXEAfgGFAAAAAXQAFGphdmEubGFuZy5EZXByZWNhdGVkc3EAfgGKcQB+AZBzcQB+AYpzcQB+AZJzcQB+AYp1cQB+AWoAAAAAc3EAfgGKdXEAfgFqAAAAAHNxAH4BinVxAH4BmQAAAAB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAtjb250cm9sbGVyc3NyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWsCN8411cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdAA8L2hvbWUvbmFqZC1kZXYvRG9jdW1lbnRzL3BsYXktamF2YS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAU5WRgI93/OUWe3jbOCvWcaSSh/5M=
+/home/najd-dev/Documents/play-java/app/models/Book.java -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwHidoWAAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAATc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwCO3qmnQABm5vdGlmeXNxAH4ADLKOAtN0AAhzZXRUaXRsZXNxAH4ADJUzdO90AAR3YWl0c3EAfgAMF/KvgXQACGdldFBhZ2Vzc3EAfgAMxR9yFXQACWdldEF1dGhvcnNxAH4ADMaZUYx0AAVzZXRJZHNxAH4ADFtdJEx0AAZlcXVhbHNzcQB+AAzrtQLmdAAIZ2V0VGl0bGVzcQB+AAyP+NMZdAAOZ2V0RGVzY3JpcHRpb25zcQB+AAx4ZPJTdAAIc2V0UGFnZXNzcQB+AAy4U8FidAAJbm90aWZ5QWxsc3EAfgAMqaWftHQABEJvb2tzcQB+AAwT1j0vdAAGPGluaXQ+c3EAfgAMdb+DtHQACXNldEF1dGhvcnNxAH4ADKk8MSp0AA5zZXREZXNjcmlwdGlvbnNxAH4ADEkZj6t0AAh0b1N0cmluZ3NxAH4ADJhBgI50AAhnZXRDbGFzc3NxAH4ADG9Y39x0AAVnZXRJZHNxAH4ADFoPfF50AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAJzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AD14cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAAFzcgAUeHNidGkuYXBpLkFubm90YXRpb27eDoGi9lwKsgIAAlsACWFyZ3VtZW50c3QAH1tMeHNidGkvYXBpL0Fubm90YXRpb25Bcmd1bWVudDtMAARiYXNldAAQTHhzYnRpL2FwaS9UeXBlO3hwdXIAH1tMeHNidGkuYXBpLkFubm90YXRpb25Bcmd1bWVudDtRnaaPOCUPeAIAAHhwAAAAAXNyABx4c2J0aS5hcGkuQW5ub3RhdGlvbkFyZ3VtZW501kWx2AMbF3wCAAJMAARuYW1lcQB+AA1MAAV2YWx1ZXEAfgANeHBxAH4ALXQAIEBqYXZheC5wZXJzaXN0ZW5jZS5FbnRpdHkobmFtZT0pc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHQABkVudGl0eXNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AVXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFamF2YXhzcQB+AGF0AAtwZXJzaXN0ZW5jZXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgBic3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAALbW9kZWxzLkJvb2t1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAAF0AAxzY2FsYS50aHJvd3NzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhxAH4AVXNxAH4AdXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgA9TAAJaW5oZXJpdGVkcQB+AD1MAAdwYXJlbnRzcQB+AD14cQB+AFZzcQB+AHV1cQB+ADgAAAAAc3EAfgB1dXEAfgA4AAAAAHNxAH4AdXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgBTdAAGT2JqZWN0c3EAfgBZc3EAfgBcdXEAfgBfAAAAA3NxAH4AYXQABGphdmFzcQB+AGF0AARsYW5ncQB+AGhzcQB+ADpxAH4AR3EAfgBJcQB+AGpxAH4Aa3EAfgBtfnEAfgBudAAGTW9kdWxldXEAfgByAAAAAHNxAH4AdXEAfgB5c3EAfgB1c3EAfgB7c3EAfgB1dXEAfgA4AAAAAHNxAH4AdXVxAH4AOAAAAABzcQB+AHV1cQB+AIIAAAAAdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAGbW9kZWxzc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFawI3zjXVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0ADwvaG9tZS9uYWpkLWRldi9Eb2N1bWVudHMvcGxheS1qYXZhL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABS64iFg66UjydtFuaSWzam2qFiudg==
+/home/najd-dev/Documents/play-java/app/models/BookDAO.java -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwV8J/VgAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAPc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwthKWW3QABm5vdGlmeXNxAH4ADAHBuj90AARmaW5kc3EAfgAM3skeR3QAB0Jvb2tEQU9zcQB+AAzoDKBddAAEd2FpdHNxAH4ADEfD3h50AAZlcXVhbHNzcQB+AAxGrwZHdAADYWxsc3EAfgAMNb/4WnQABmNyZWF0ZXNxAH4ADLmcZSt0AAlub3RpZnlBbGxzcQB+AAwx8OVrdAAGPGluaXQ+c3EAfgAM8TOWPHQABmRlbGV0ZXNxAH4ADCy8hMJ0AAh0b1N0cmluZ3NxAH4ADGkgsnR0AAZTZWFyY2hzcQB+AAwXsPSvdAAIZ2V0Q2xhc3NzcQB+AAwxVUe6dAAGdXBkYXRlc3EAfgAM88Wqs3QACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAnNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4ANXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQADm1vZGVscy5Cb29rREFPdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAABdAAMc2NhbGEudGhyb3dzc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AE5zcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4ANUwACWluaGVyaXRlZHEAfgA1TAAHcGFyZW50c3EAfgA1eHEAfgBTc3EAfgBOdXEAfgAwAAAAAHNxAH4ATnVxAH4AMAAAAABzcQB+AE51cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AFJ0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AFJzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AGt0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AGxzcQB+ADJxAH4AP3EAfgBBcQB+AENxAH4ARHEAfgBGfnEAfgBHdAAGTW9kdWxldXEAfgBLAAAAAHNxAH4ATnEAfgBUc3EAfgBOc3EAfgBWc3EAfgBOdXEAfgAwAAAAAHNxAH4ATnVxAH4AMAAAAABzcQB+AE51cQB+AF0AAAAAdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAGbW9kZWxzc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFawI3zjXVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0ADwvaG9tZS9uYWpkLWRldi9Eb2N1bWVudHMvcGxheS1qYXZhL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABRGI+N5ZQ2Nmp1XsZi7nU8kAnStyw==
+/home/najd-dev/Documents/play-java/app/models/BookService.java -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhw672AFAAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAPc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwwBtstXQABm5vdGlmeXNxAH4ADJV8+YN0AARmaW5kc3EAfgAMyoa5M3QABHdhaXRzcQB+AAwpK/T6dAAGZXF1YWxzc3EAfgAMocZIinQAA2FsbHNxAH4ADPvMYlh0AAZjcmVhdGVzcQB+AAwz8oSVdAALQm9va1NlcnZpY2VzcQB+AAy/bmZLdAAJbm90aWZ5QWxsc3EAfgAMEvAp+nQABjxpbml0PnNxAH4ADN5eQop0ABVzZWFyY2hCeVRpdGxlT3JBdXRob3JzcQB+AAzmh01idAAGZGVsZXRlc3EAfgAMMlDFv3QACHRvU3RyaW5nc3EAfgAMY+dGKXQACGdldENsYXNzc3EAfgAMr0/IRHQABnVwZGF0ZXNxAH4ADO4TsRR0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAJzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+ADV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0ABJtb2RlbHMuQm9va1NlcnZpY2V1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAAF0AAxzY2FsYS50aHJvd3NzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4ATnNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgA1TAAJaW5oZXJpdGVkcQB+ADVMAAdwYXJlbnRzcQB+ADV4cQB+AFNzcQB+AE51cQB+ADAAAAAAc3EAfgBOdXEAfgAwAAAAAHNxAH4ATnVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AUnQABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AUnNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4Aa3QABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AbHNxAH4AMnEAfgA/cQB+AEFxAH4AQ3EAfgBEcQB+AEZ+cQB+AEd0AAZNb2R1bGV1cQB+AEsAAAAAc3EAfgBOcQB+AFRzcQB+AE5zcQB+AFZzcQB+AE51cQB+ADAAAAAAc3EAfgBOdXEAfgAwAAAAAHNxAH4ATnVxAH4AXQAAAAB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAZtb2RlbHNzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVrAjfONdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAPC9ob21lL25hamQtZGV2L0RvY3VtZW50cy9wbGF5LWphdmEvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFHneMFZtnMzzYPhdm1u2uVOLTUl+
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwiytfdwAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAfc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwdm8cHHQABm5vdGlmeXNxAH4ADPun2Vp0AA5fZGVmYXVsdFByZWZpeHNxAH4ADGCLdqV0AAR3YWl0c3EAfgAMUxZ/tnQADSRhc0luc3RhbmNlT2ZzcQB+AAxogkSOdAAOZGVsZXRlQm9va0J5SWRzcQB+AAwPOnrQdAAGZXF1YWxzc3EAfgAMMk4HXnQACmNyZWF0ZUJvb2tzcQB+AAyYtjC2dAAMYXNJbnN0YW5jZU9mc3EAfgAMgEVfF3QADHN5bmNocm9uaXplZHNxAH4ADCNbr/t0AA0kaXNJbnN0YW5jZU9mc3EAfgAMyn75lnQAC2dldGJvb2tCeUlkc3EAfgAMUIb+CXQADVJldmVyc2VBc3NldHNzcQB+AAxduqNldAAJbm90aWZ5QWxsc3EAfgAMi8eYv3QADGlzSW5zdGFuY2VPZnNxAH4ADGQwBiB0AAY8aW5pdD5zcQB+AAyVATo5dAACYXRzcQB+AAzwjkXBdAAVUmV2ZXJzZUJvb2tDb250cm9sbGVyc3EAfgAM4LZoznQAAj09c3EAfgAMfTzEqnQABWNsb25lc3EAfgAM7Sw0EXQACHRlbXBsYXRlc3EAfgAMykbs7nQACHRvU3RyaW5nc3EAfgAMYpbwfnQAAiE9c3EAfgAMpYYi5HQACGdldENsYXNzc3EAfgAM7oDVyXQACnVwZGF0ZUJvb2tzcQB+AAzGw0vwdAACbmVzcQB+AAxtlleSdAACZXFzcQB+AAzDQravdAACIyNzcQB+AAyG2T8FdAAIZmluYWxpemVzcQB+AAyA4jvYdAAFaW5kZXhzcQB+AAx4spCmdAAIaGFzaENvZGVzcQB+AAx7NklVdAAJbGlzdEJvb2tzc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAnNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AVXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQAIWNvbnRyb2xsZXJzLlJldmVyc2VCb29rQ29udHJvbGxlcnVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBtc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AFVMAAlpbmhlcml0ZWRxAH4AVUwAB3BhcmVudHNxAH4AVXhxAH4AcnNxAH4AbXVxAH4AUAAAAABzcQB+AG11cQB+AFAAAAAAc3EAfgBtdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBxdAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBxc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgCKdAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCLc3EAfgB+dAADQW55c3EAfgCCc3EAfgCFdXEAfgCIAAAAAnNxAH4AinQABXNjYWxhcQB+AJFzcQB+AFJxAH4AX3VxAH4AYAAAAABzcQB+AGIAdAAZY29udHJvbGxlcnMuUmV2ZXJzZUFzc2V0c3VxAH4AZQAAAABxAH4AaXVxAH4AawAAAABzcQB+AG1xAH4Ac3NxAH4AbXNxAH4AdXNxAH4AbXVxAH4AUAAAAABzcQB+AG11cQB+AFAAAAAAc3EAfgBtdXEAfgB8AAAAAnNxAH4AfnEAfgCBc3EAfgCCc3EAfgCFdXEAfgCIAAAAA3NxAH4AinEAfgCNc3EAfgCKcQB+AI9xAH4AkXNxAH4AfnEAfgCTc3EAfgCCc3EAfgCFdXEAfgCIAAAAAnNxAH4AinEAfgCYcQB+AJF1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAtjb250cm9sbGVyc3NyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWsCN8411cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdAA8L2hvbWUvbmFqZC1kZXYvRG9jdW1lbnRzL3BsYXktamF2YS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUu9krYUMUvDdcA0OqQZrHa7kKymk=
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwJ9X3gAAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAfc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwU3Xsj3QABm5vdGlmeXNxAH4ADI1G72F0AA5fZGVmYXVsdFByZWZpeHNxAH4ADM8sAoh0AAR3YWl0c3EAfgAMa5z5y3QADSRhc0luc3RhbmNlT2ZzcQB+AAwlJbYgdAAOZGVsZXRlQm9va0J5SWRzcQB+AAzqOSf9dAAGZXF1YWxzc3EAfgAMif/0eXQACmNyZWF0ZUJvb2tzcQB+AAxMDv2YdAAMYXNJbnN0YW5jZU9mc3EAfgAM2MPFRnQADHN5bmNocm9uaXplZHNxAH4ADKgtoMF0AA0kaXNJbnN0YW5jZU9mc3EAfgAMHlV6I3QAC2dldGJvb2tCeUlkc3EAfgAMdJ0FW3QADVJldmVyc2VBc3NldHNzcQB+AAyDs0yQdAAJbm90aWZ5QWxsc3EAfgAMrKjdY3QADGlzSW5zdGFuY2VPZnNxAH4ADJMBGbF0AAY8aW5pdD5zcQB+AAwinbQNdAACYXRzcQB+AAzdEpeSdAAVUmV2ZXJzZUJvb2tDb250cm9sbGVyc3EAfgAMpBpC43QAAj09c3EAfgAM6/9FmnQABWNsb25lc3EAfgAMJfLttnQACHRlbXBsYXRlc3EAfgAMPgF4XXQACHRvU3RyaW5nc3EAfgAMVXxz1nQAAiE9c3EAfgAMK7hAgnQACGdldENsYXNzc3EAfgAM9TT8B3QACnVwZGF0ZUJvb2tzcQB+AAzxkyl8dAACbmVzcQB+AAy5160wdAACZXFzcQB+AAx+mZ98dAACIyNzcQB+AAx6IegtdAAIZmluYWxpemVzcQB+AAxBZUl5dAAFaW5kZXhzcQB+AAy3+x3AdAAIaGFzaENvZGVzcQB+AAyK8qM4dAAJbGlzdEJvb2tzc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAnNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AVXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQALGNvbnRyb2xsZXJzLmphdmFzY3JpcHQuUmV2ZXJzZUJvb2tDb250cm9sbGVydXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AG1zcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AVUwACWluaGVyaXRlZHEAfgBVTAAHcGFyZW50c3EAfgBVeHEAfgByc3EAfgBtdXEAfgBQAAAAAHNxAH4AbXVxAH4AUAAAAABzcQB+AG11cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AHF0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AHFzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AIp0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AItzcQB+AH50AANBbnlzcQB+AIJzcQB+AIV1cQB+AIgAAAACc3EAfgCKdAAFc2NhbGFxAH4AkXNxAH4AUnEAfgBfdXEAfgBgAAAAAHNxAH4AYgB0ACRjb250cm9sbGVycy5qYXZhc2NyaXB0LlJldmVyc2VBc3NldHN1cQB+AGUAAAAAcQB+AGl1cQB+AGsAAAAAc3EAfgBtcQB+AHNzcQB+AG1zcQB+AHVzcQB+AG11cQB+AFAAAAAAc3EAfgBtdXEAfgBQAAAAAHNxAH4AbXVxAH4AfAAAAAJzcQB+AH5xAH4AgXNxAH4AgnNxAH4AhXVxAH4AiAAAAANzcQB+AIpxAH4AjXNxAH4AinEAfgCPcQB+AJFzcQB+AH5xAH4Ak3NxAH4AgnNxAH4AhXVxAH4AiAAAAAJzcQB+AIpxAH4AmHEAfgCRdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAJzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAWY29udHJvbGxlcnMuamF2YXNjcmlwdHNxAH4AtXQAC2NvbnRyb2xsZXJzc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFawI3zjXVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0ADwvaG9tZS9uYWpkLWRldi9Eb2N1bWVudHMvcGxheS1qYXZhL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABR6ms6LdgNI5985jA7J+7VH0fJK6w==
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/controllers/routes.java -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwzAyvQQAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAMc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwNYQyw3QABm5vdGlmeXNxAH4ADCIhT+10AAZBc3NldHNzcQB+AAxvtd2udAAOQm9va0NvbnRyb2xsZXJzcQB+AAxteurUdAAEd2FpdHNxAH4ADB+outB0AAZyb3V0ZXNzcQB+AAxVNlzidAAGZXF1YWxzc3EAfgAM3PCRHnQAEXJvdXRlcyRqYXZhc2NyaXB0c3EAfgAMfmE4eHQACW5vdGlmeUFsbHNxAH4ADNGfIeR0AAY8aW5pdD5zcQB+AAxVqs74dAAIdG9TdHJpbmdzcQB+AAwhC3xwdAAIZ2V0Q2xhc3NzcQB+AAwe5+o2dAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAACc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgAveHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAASY29udHJvbGxlcnMucm91dGVzdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAABdAAMc2NhbGEudGhyb3dzc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AEhzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AL0wACWluaGVyaXRlZHEAfgAvTAAHcGFyZW50c3EAfgAveHEAfgBNc3EAfgBIdXEAfgAqAAAAAHNxAH4ASHVxAH4AKgAAAABzcQB+AEh1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AEx0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AExzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AGV0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AGZzcQB+ACxxAH4AOXEAfgA7cQB+AD1xAH4APnEAfgBAfnEAfgBBdAAGTW9kdWxldXEAfgBFAAAAAHNxAH4ASHEAfgBOc3EAfgBIc3EAfgBQc3EAfgBIdXEAfgAqAAAAAHNxAH4ASHVxAH4AKgAAAABzcQB+AEh1cQB+AFcAAAAAdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAALY29udHJvbGxlcnNzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVrAjfONdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAPC9ob21lL25hamQtZGV2L0RvY3VtZW50cy9wbGF5LWphdmEvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFEMWmQ2YO+4OsFR/pm/Ttv+FnBRJ
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwuqHmTQAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAhc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwTYH5tnQABm5vdGlmeXNxAH4ADGWb3lJ0AApiYWRSZXF1ZXN0c3EAfgAMgJgH0nQABHdhaXRzcQB+AAxy9pV9dAANJGFzSW5zdGFuY2VPZnNxAH4ADEk2S3d0AAZyb3V0ZXNzcQB+AAyee8dJdAANY3JlYXRlSW52b2tlcnNxAH4ADDoKbR50AAZlcXVhbHNzcQB+AAxUx9/vdAAGcHJlZml4c3EAfgAM7rEG3nQADGFzSW5zdGFuY2VPZnNxAH4ADAJP80p0AA1kb2N1bWVudGF0aW9uc3EAfgAMyAHA4HQADHN5bmNocm9uaXplZHNxAH4ADNpRt4V0AA0kaXNJbnN0YW5jZU9mc3EAfgAMQ6hwr3QACmhhbmRsZXJGb3JzcQB+AAzxTVAydAAJbm90aWZ5QWxsc3EAfgAMyGaE1HQADGlzSW5zdGFuY2VPZnNxAH4ADFEejfd0AAZhc0phdmFzcQB+AAzOS0WodAAMZXJyb3JIYW5kbGVyc3EAfgAMu27iVnQABjxpbml0PnNxAH4ADFroZ7d0AAI9PXNxAH4ADDHdx6x0AAVjbG9uZXNxAH4ADOBEvnx0AAYkaW5pdCRzcQB+AAwUiwjJdAAGUm91dGVzc3EAfgAMt0jr8HQACHRvU3RyaW5nc3EAfgAMyb8nyHQAAiE9c3EAfgAMylHjK3QACWZha2VWYWx1ZXNxAH4ADHSi/xh0AAhnZXRDbGFzc3NxAH4ADDJgSaR0AAJuZXNxAH4ADAVx8Sx0AAp3aXRoUHJlZml4c3EAfgAMHZawrnQABGNhbGxzcQB+AAz3VL9+dAACZXFzcQB+AAz3Ur0QdAACIyNzcQB+AAxtA/WddAAIZmluYWxpemVzcQB+AAyFs1FvdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBZeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAANcm91dGVyLlJvdXRlc3VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAXQAE2phdmF4LmluamVjdC5JbmplY3RzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AcnNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBZTAAJaW5oZXJpdGVkcQB+AFlMAAdwYXJlbnRzcQB+AFl4cQB+AHdzcQB+AHJ1cQB+AFQAAAAAc3EAfgBydXEAfgBUAAAAAHNxAH4AcnVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAAEc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AdnQAD0dlbmVyYXRlZFJvdXRlcnNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AdnNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAABHNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEcGxheXNxAH4Aj3QABGNvcmVzcQB+AI90AAdyb3V0aW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AJBzcQB+AIN0AAZSb3V0ZXJzcQB+AIdzcQB+AIp1cQB+AI0AAAAEc3EAfgCPdAAEcGxheXNxAH4Aj3QAA2FwaXNxAH4Aj3QAB3JvdXRpbmdxAH4AmHNxAH4Ag3QABk9iamVjdHNxAH4Ah3NxAH4AinVxAH4AjQAAAANzcQB+AI90AARqYXZhc3EAfgCPdAAEbGFuZ3EAfgCYc3EAfgCDdAADQW55c3EAfgCHc3EAfgCKdXEAfgCNAAAAAnNxAH4Aj3QABXNjYWxhcQB+AJh1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAZyb3V0ZXJzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVrAjfONdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAPC9ob21lL25hamQtZGV2L0RvY3VtZW50cy9wbGF5LWphdmEvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFFSTPhdMMmLVbtFUU5OyNRdHLlXb
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/RoutesPrefix.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwyXv9DQAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAXc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hw3SNaY3QABm5vdGlmeXNxAH4ADDqZ8+l0AAxieU5hbWVQcmVmaXhzcQB+AAwaoC4qdAAEd2FpdHNxAH4ADCKKFB50AA0kYXNJbnN0YW5jZU9mc3EAfgAMaULSCHQABmVxdWFsc3NxAH4ADHOOIFd0AAZwcmVmaXhzcQB+AAyh7h6fdAAMYXNJbnN0YW5jZU9mc3EAfgAMSdNNC3QADFJvdXRlc1ByZWZpeHNxAH4ADMFVI+50AAxzeW5jaHJvbml6ZWRzcQB+AAzc9bSjdAANJGlzSW5zdGFuY2VPZnNxAH4ADL28U7F0AAlub3RpZnlBbGxzcQB+AAz/ysYxdAAMaXNJbnN0YW5jZU9mc3EAfgAM2W34NHQAAj09c3EAfgAMxTNSy3QABWNsb25lc3EAfgAM+6h7k3QACHRvU3RyaW5nc3EAfgAMjL/9EnQAAiE9c3EAfgAMFWcPZ3QACGdldENsYXNzc3EAfgAMRJBH63QACXNldFByZWZpeHNxAH4ADA44Ta90AAJuZXNxAH4ADBnhnUh0AAJlcXNxAH4ADBp2Pzd0AAIjI3NxAH4ADAff5nh0AAhmaW5hbGl6ZXNxAH4ADIIAnnp0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0ABNyb3V0ZXIuUm91dGVzUHJlZml4dXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBdc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEVMAAlpbmhlcml0ZWRxAH4ARUwAB3BhcmVudHNxAH4ARXhxAH4AYnNxAH4AXXVxAH4AQAAAAABzcQB+AF11cQB+AEAAAAAAc3EAfgBddXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBhdAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBhc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgB6dAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgB7c3EAfgBudAADQW55c3EAfgByc3EAfgB1dXEAfgB4AAAAAnNxAH4AenQABXNjYWxhcQB+AIF1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAZyb3V0ZXJzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVrAjfONdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAPC9ob21lL25hamQtZGV2L0RvY3VtZW50cy9wbGF5LWphdmEvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFDdPeOhO5HJZ5MDXvQ0YLKKcw1XZ
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/index.template.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwdV/0zgAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAkc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwtL5BTXQABm5vdGlmeXNxAH4ADFB/c+t0AAZmb3JtYXRzcQB+AAxW0hGhdAAEd2FpdHNxAH4ADErKCnh0AA0kYXNJbnN0YW5jZU9mc3EAfgAMIqHfSHQADHByb2R1Y3RBcml0eXNxAH4ADH/Mcv50AAZlcXVhbHNzcQB+AAxTKuePdAAMYXNJbnN0YW5jZU9mc3EAfgAMd4DGRXQAAWZzcQB+AAyQueJBdAAMc3luY2hyb25pemVkc3EAfgAMHVI1dXQACV9kaXNwbGF5X3NxAH4ADJjw7LZ0AA0kaXNJbnN0YW5jZU9mc3EAfgAMLMhtZHQAA3JlZnNxAH4ADKNIp6J0AAhjYW5FcXVhbHNxAH4ADAUkvHF0AAxpbmRleF9TY29wZTBzcQB+AAyzq3LWdAANcHJvZHVjdFByZWZpeHNxAH4ADGmri3d0AAlub3RpZnlBbGxzcQB+AAy7jWugdAAMaXNJbnN0YW5jZU9mc3EAfgAMjbmlpXQABjxpbml0PnNxAH4ADOPQ7E90AAVhcHBseXNxAH4ADNdBAX10AAI9PXNxAH4ADI/a2kJ0AAVjbG9uZXNxAH4ADHzwfVR0AAYkaW5pdCRzcQB+AAx3dajcdAAEY29weXNxAH4ADEYLyvp0AAh0b1N0cmluZ3NxAH4ADHsslD90AAIhPXNxAH4ADIfoUUx0AAhnZXRDbGFzc3NxAH4ADLIMbAF0AA5jb3B5JGRlZmF1bHQkMXNxAH4ADFr6frp0AAZyZW5kZXJzcQB+AAypHxuedAACbmVzcQB+AAyRuGGXdAACZXFzcQB+AAxOmHwzdAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgAMmBGk5XQAAiMjc3EAfgAMWGIkOXQACGZpbmFsaXplc3EAfgAMz2iX7nQABWluZGV4c3EAfgAMR9kkDnQADnByb2R1Y3RFbGVtZW50c3EAfgAMAD7BwnQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAnNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AX3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQAF3ZpZXdzLmh0bWwuaW5kZXhfU2NvcGUwdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgB3c3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AF9MAAlpbmhlcml0ZWRxAH4AX0wAB3BhcmVudHNxAH4AX3hxAH4AfHNxAH4Ad3VxAH4AWgAAAABzcQB+AHd1cQB+AFoAAAAAc3EAfgB3dXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgB7dAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgB7c3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgCUdAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCVc3EAfgCIdAADQW55c3EAfgCMc3EAfgCPdXEAfgCSAAAAAnNxAH4AlHQABXNjYWxhcQB+AJtzcQB+AFxxAH4AaXVxAH4AagAAAABzcQB+AGwAdAAQdmlld3MuaHRtbC5pbmRleHVxAH4AbwAAAABxAH4Ac3VxAH4AdQAAAABzcQB+AHdxAH4AfXNxAH4Ad3NxAH4Af3NxAH4Ad3VxAH4AWgAAAABzcQB+AHd1cQB+AFoAAAAAc3EAfgB3dXEAfgCGAAAACXNxAH4AiHQABWluZGV4c3EAfgCIdAAMaW5kZXhfU2NvcGUwc3EAfgCMc3EAfgCPdXEAfgCSAAAAA3NxAH4AlHQABXZpZXdzc3EAfgCUdAAEaHRtbHEAfgCbc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgCJWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgB7c3EAfgCIdAAJVGVtcGxhdGUwc3EAfgCMc3EAfgCPdXEAfgCSAAAABHNxAH4AlHQABHBsYXlzcQB+AJR0AAV0d2lybHNxAH4AlHQAA2FwaXEAfgCbdXEAfgCGAAAAAXNxAH4AiHQABEh0bWxxAH4AwnNxAH4AvXNxAH4AiHQAEUJhc2VTY2FsYVRlbXBsYXRlcQB+AMJ1cQB+AIYAAAACcQB+AMxzcQB+AL1zcQB+AIh0AAZGb3JtYXRxAH4AwnVxAH4AhgAAAAFxAH4AzHNxAH4AiHQADFNlcmlhbGl6YWJsZXNxAH4AjHNxAH4Aj3VxAH4AkgAAAAJzcQB+AJRxAH4AonEAfgCbc3EAfgCIcQB+ANdzcQB+AIxzcQB+AI91cQB+AJIAAAADc3EAfgCUcQB+AJdzcQB+AJR0AAJpb3EAfgCbc3EAfgCIdAAHUHJvZHVjdHEAfgDYc3EAfgCIdAAGRXF1YWxzcQB+ANhzcQB+AIhxAH4Ai3NxAH4AjHNxAH4Aj3VxAH4AkgAAAANzcQB+AJRxAH4Al3NxAH4AlHEAfgCZcQB+AJtzcQB+AIhxAH4AnXEAfgDYdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAJzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAFdmlld3NzcQB+APB0AAp2aWV3cy5odG1sc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFawJp0M3VyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0ADwvaG9tZS9uYWpkLWRldi9Eb2N1bWVudHMvcGxheS1qYXZhL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABQuy+TrJrRRd5r39xZcepPMwmaj4w==
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/main.template.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhw0wG9EAAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAkc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwrtAg6nQABm5vdGlmeXNxAH4ADPjCyfh0AAZmb3JtYXRzcQB+AAy4Az9fdAAEd2FpdHNxAH4ADBG6yTV0AA0kYXNJbnN0YW5jZU9mc3EAfgAMrCNhhnQADHByb2R1Y3RBcml0eXNxAH4ADCufHdB0AAZlcXVhbHNzcQB+AAw6ZZMgdAAMYXNJbnN0YW5jZU9mc3EAfgAMPyoBFHQAAWZzcQB+AAw/uzVMdAAMc3luY2hyb25pemVkc3EAfgAMZfopKXQACV9kaXNwbGF5X3NxAH4ADB1F7ft0AA0kaXNJbnN0YW5jZU9mc3EAfgAME8e7FXQAA3JlZnNxAH4ADNrRLvx0AAhjYW5FcXVhbHNxAH4ADBLftmJ0AARtYWluc3EAfgAMI/2pu3QADXByb2R1Y3RQcmVmaXhzcQB+AAwr78V7dAAJbm90aWZ5QWxsc3EAfgAMDvTRtHQADGlzSW5zdGFuY2VPZnNxAH4ADKWC2Q90AAY8aW5pdD5zcQB+AAy8LTRPdAAFYXBwbHlzcQB+AAyeiLAwdAACPT1zcQB+AAzCDWzEdAAFY2xvbmVzcQB+AAwAY90tdAAGJGluaXQkc3EAfgAMXRWbqHQAC21haW5fU2NvcGUwc3EAfgAMCTdDKXQABGNvcHlzcQB+AAzX13bHdAAIdG9TdHJpbmdzcQB+AAxU2ScrdAACIT1zcQB+AAw0BWpodAAIZ2V0Q2xhc3NzcQB+AAxbY/72dAAOY29weSRkZWZhdWx0JDFzcQB+AAxI2uyOdAAGcmVuZGVyc3EAfgAMNwb2AXQAAm5lc3EAfgAMuLvRynQAAmVxc3EAfgAMGiVaC3QAD3Byb2R1Y3RJdGVyYXRvcnNxAH4ADEVwPB10AAIjI3NxAH4ADKZIUSx0AAhmaW5hbGl6ZXNxAH4ADFR3k4F0AA5wcm9kdWN0RWxlbWVudHNxAH4ADAgCCRN0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAJzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AF94cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0ABZ2aWV3cy5odG1sLm1haW5fU2NvcGUwdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgB3c3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AF9MAAlpbmhlcml0ZWRxAH4AX0wAB3BhcmVudHNxAH4AX3hxAH4AfHNxAH4Ad3VxAH4AWgAAAABzcQB+AHd1cQB+AFoAAAAAc3EAfgB3dXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgB7dAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgB7c3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgCUdAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCVc3EAfgCIdAADQW55c3EAfgCMc3EAfgCPdXEAfgCSAAAAAnNxAH4AlHQABXNjYWxhcQB+AJtzcQB+AFxxAH4AaXVxAH4AagAAAABzcQB+AGwAdAAPdmlld3MuaHRtbC5tYWludXEAfgBvAAAAAHEAfgBzdXEAfgB1AAAAAHNxAH4Ad3EAfgB9c3EAfgB3c3EAfgB/c3EAfgB3dXEAfgBaAAAAAHNxAH4Ad3VxAH4AWgAAAABzcQB+AHd1cQB+AIYAAAAJc3EAfgCIdAAEbWFpbnNxAH4AiHQAC21haW5fU2NvcGUwc3EAfgCMc3EAfgCPdXEAfgCSAAAAA3NxAH4AlHQABXZpZXdzc3EAfgCUdAAEaHRtbHEAfgCbc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgCJWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgB7c3EAfgCIdAAJVGVtcGxhdGUyc3EAfgCMc3EAfgCPdXEAfgCSAAAABHNxAH4AlHQABHBsYXlzcQB+AJR0AAV0d2lybHNxAH4AlHQAA2FwaXEAfgCbdXEAfgCGAAAAA3NxAH4AiHQABlN0cmluZ3NxAH4AjHNxAH4Aj3VxAH4AkgAAAANzcQB+AJRxAH4Al3NxAH4AlHEAfgCZcQB+AJtzcQB+AIh0AARIdG1scQB+AMJzcQB+AIh0AARIdG1scQB+AMJzcQB+AL1zcQB+AIh0ABFCYXNlU2NhbGFUZW1wbGF0ZXEAfgDCdXEAfgCGAAAAAnEAfgDVc3EAfgC9c3EAfgCIdAAGRm9ybWF0cQB+AMJ1cQB+AIYAAAABcQB+ANVzcQB+AIh0AAxTZXJpYWxpemFibGVzcQB+AIxzcQB+AI91cQB+AJIAAAACc3EAfgCUcQB+AKJxAH4Am3NxAH4AiHEAfgDgc3EAfgCMc3EAfgCPdXEAfgCSAAAAA3NxAH4AlHEAfgCXc3EAfgCUdAACaW9xAH4Am3NxAH4AiHQAB1Byb2R1Y3RxAH4A4XNxAH4AiHQABkVxdWFsc3EAfgDhc3EAfgCIcQB+AItxAH4AznNxAH4AiHEAfgCdcQB+AOF1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAnNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAV2aWV3c3NxAH4A9HQACnZpZXdzLmh0bWxzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVrAjfONdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAPC9ob21lL25hamQtZGV2L0RvY3VtZW50cy9wbGF5LWphdmEvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFK+609faMtUx5T9QMJBR+MVYizqc
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/template.template.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwIjrrigAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAkc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwO2J4G3QABm5vdGlmeXNxAH4ADIxiVjx0AAZmb3JtYXRzcQB+AAykjn3IdAAPdGVtcGxhdGVfU2NvcGUwc3EAfgAM/xN2rnQABHdhaXRzcQB+AAyGUaBAdAANJGFzSW5zdGFuY2VPZnNxAH4ADCaRSLh0AAxwcm9kdWN0QXJpdHlzcQB+AAzRgNCNdAAGZXF1YWxzc3EAfgAMlkFkXnQADGFzSW5zdGFuY2VPZnNxAH4ADJrDq5p0AAFmc3EAfgAMM7mecnQADHN5bmNocm9uaXplZHNxAH4ADCqnMXB0AAlfZGlzcGxheV9zcQB+AAx7YBcudAANJGlzSW5zdGFuY2VPZnNxAH4ADIztXTZ0AANyZWZzcQB+AAzuSqLHdAAIY2FuRXF1YWxzcQB+AAwnQ0s0dAANcHJvZHVjdFByZWZpeHNxAH4ADBy4Sjl0AAlub3RpZnlBbGxzcQB+AAxGuKM3dAAMaXNJbnN0YW5jZU9mc3EAfgAMca28WXQABjxpbml0PnNxAH4ADDLvgV90AAVhcHBseXNxAH4ADCpfvaN0AAI9PXNxAH4ADAHywjd0AAVjbG9uZXNxAH4ADF13XAZ0AAYkaW5pdCRzcQB+AAxrgo/AdAAEY29weXNxAH4ADMlSdJx0AAh0ZW1wbGF0ZXNxAH4ADJB6veh0AAh0b1N0cmluZ3NxAH4ADLOEwKh0AAIhPXNxAH4ADLGtEOB0AAhnZXRDbGFzc3NxAH4ADORBpVp0AA5jb3B5JGRlZmF1bHQkMXNxAH4ADMlXlnF0AAZyZW5kZXJzcQB+AAx5AMOAdAACbmVzcQB+AAxMPzLjdAACZXFzcQB+AAz7C15fdAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgAM8j9153QAAiMjc3EAfgAMLxdxsnQACGZpbmFsaXplc3EAfgAML+HFvnQADnByb2R1Y3RFbGVtZW50c3EAfgAMnozvJ3QACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAnNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AX3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQAGnZpZXdzLmh0bWwudGVtcGxhdGVfU2NvcGUwdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgB3c3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AF9MAAlpbmhlcml0ZWRxAH4AX0wAB3BhcmVudHNxAH4AX3hxAH4AfHNxAH4Ad3VxAH4AWgAAAABzcQB+AHd1cQB+AFoAAAAAc3EAfgB3dXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgB7dAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgB7c3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgCUdAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCVc3EAfgCIdAADQW55c3EAfgCMc3EAfgCPdXEAfgCSAAAAAnNxAH4AlHQABXNjYWxhcQB+AJtzcQB+AFxxAH4AaXVxAH4AagAAAABzcQB+AGwAdAATdmlld3MuaHRtbC50ZW1wbGF0ZXVxAH4AbwAAAABxAH4Ac3VxAH4AdQAAAABzcQB+AHdxAH4AfXNxAH4Ad3NxAH4Af3NxAH4Ad3VxAH4AWgAAAABzcQB+AHd1cQB+AFoAAAAAc3EAfgB3dXEAfgCGAAAACXNxAH4AiHQACHRlbXBsYXRlc3EAfgCIdAAPdGVtcGxhdGVfU2NvcGUwc3EAfgCMc3EAfgCPdXEAfgCSAAAAA3NxAH4AlHQABXZpZXdzc3EAfgCUdAAEaHRtbHEAfgCbc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgCJWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgB7c3EAfgCIdAAJVGVtcGxhdGUwc3EAfgCMc3EAfgCPdXEAfgCSAAAABHNxAH4AlHQABHBsYXlzcQB+AJR0AAV0d2lybHNxAH4AlHQAA2FwaXEAfgCbdXEAfgCGAAAAAXNxAH4AiHQABEh0bWxxAH4AwnNxAH4AvXNxAH4AiHQAEUJhc2VTY2FsYVRlbXBsYXRlcQB+AMJ1cQB+AIYAAAACcQB+AMxzcQB+AL1zcQB+AIh0AAZGb3JtYXRxAH4AwnVxAH4AhgAAAAFxAH4AzHNxAH4AiHQADFNlcmlhbGl6YWJsZXNxAH4AjHNxAH4Aj3VxAH4AkgAAAAJzcQB+AJRxAH4AonEAfgCbc3EAfgCIcQB+ANdzcQB+AIxzcQB+AI91cQB+AJIAAAADc3EAfgCUcQB+AJdzcQB+AJR0AAJpb3EAfgCbc3EAfgCIdAAHUHJvZHVjdHEAfgDYc3EAfgCIdAAGRXF1YWxzcQB+ANhzcQB+AIhxAH4Ai3NxAH4AjHNxAH4Aj3VxAH4AkgAAAANzcQB+AJRxAH4Al3NxAH4AlHEAfgCZcQB+AJtzcQB+AIhxAH4AnXEAfgDYdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAJzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAFdmlld3NzcQB+APB0AAp2aWV3cy5odG1sc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFawI8SeHVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0ADwvaG9tZS9uYWpkLWRldi9Eb2N1bWVudHMvcGxheS1qYXZhL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABSRYYS6GPqAUY0vGqNetbfrKs1DgA==
+external apis:
+0 items
+source infos:
+12 items
+/home/najd-dev/Documents/play-java/app/controllers/BookController.java -> 
+AAAAAAAAAAA=
+/home/najd-dev/Documents/play-java/app/models/Book.java -> 
+AAAAAAAAAAA=
+/home/najd-dev/Documents/play-java/app/models/BookDAO.java -> 
+AAAAAAAAAAA=
+/home/najd-dev/Documents/play-java/app/models/BookService.java -> 
+AAAAAAAAAAA=
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> 
+AAAAAAAAAAA=
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> 
+AAAAAAAAAAA=
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/controllers/routes.java -> 
+AAAAAAAAAAA=
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/Routes.scala -> 
+AAAAAAAAAAA=
+/home/najd-dev/Documents/play-java/target/scala-2.11/routes/main/router/RoutesPrefix.scala -> 
+AAAAAAAAAAA=
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/index.template.scala -> 
+AAAAAAAAAAA=
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/main.template.scala -> 
+AAAAAAAAAAA=
+/home/najd-dev/Documents/play-java/target/scala-2.11/twirl/main/views/html/template.template.scala -> 
+AAAAAAAAAAA=
+compilations:
+22 items
+00 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWsAvCzl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPC9ob21lL25hamQtZGV2L0RvY3VtZW50cy9wbGF5LWphdmEvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+01 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWsAv2Td1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPC9ob21lL25hamQtZGV2L0RvY3VtZW50cy9wbGF5LWphdmEvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+02 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWsAw00N1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPC9ob21lL25hamQtZGV2L0RvY3VtZW50cy9wbGF5LWphdmEvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+03 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWsA9ieB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPC9ob21lL25hamQtZGV2L0RvY3VtZW50cy9wbGF5LWphdmEvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+04 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWsA+oWB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPC9ob21lL25hamQtZGV2L0RvY3VtZW50cy9wbGF5LWphdmEvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+05 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWsA/FGN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPC9ob21lL25hamQtZGV2L0RvY3VtZW50cy9wbGF5LWphdmEvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+06 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWsBAL6h1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPC9ob21lL25hamQtZGV2L0RvY3VtZW50cy9wbGF5LWphdmEvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+07 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWsBAbXF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPC9ob21lL25hamQtZGV2L0RvY3VtZW50cy9wbGF5LWphdmEvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+08 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWsBFWgB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPC9ob21lL25hamQtZGV2L0RvY3VtZW50cy9wbGF5LWphdmEvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+09 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWsBpRPx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPC9ob21lL25hamQtZGV2L0RvY3VtZW50cy9wbGF5LWphdmEvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+10 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWsBp31J1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPC9ob21lL25hamQtZGV2L0RvY3VtZW50cy9wbGF5LWphdmEvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+11 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWsBrB2B1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPC9ob21lL25hamQtZGV2L0RvY3VtZW50cy9wbGF5LWphdmEvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+12 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWsBvYvR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPC9ob21lL25hamQtZGV2L0RvY3VtZW50cy9wbGF5LWphdmEvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+13 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWsBwzPt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPC9ob21lL25hamQtZGV2L0RvY3VtZW50cy9wbGF5LWphdmEvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+14 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWsB399x1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPC9ob21lL25hamQtZGV2L0RvY3VtZW50cy9wbGF5LWphdmEvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+15 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWsB6sXV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPC9ob21lL25hamQtZGV2L0RvY3VtZW50cy9wbGF5LWphdmEvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+16 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWsCEB5N1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPC9ob21lL25hamQtZGV2L0RvY3VtZW50cy9wbGF5LWphdmEvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+17 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWsCGMot1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPC9ob21lL25hamQtZGV2L0RvY3VtZW50cy9wbGF5LWphdmEvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+18 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWsCN8411cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPC9ob21lL25hamQtZGV2L0RvY3VtZW50cy9wbGF5LWphdmEvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+19 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWsCPEnh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPC9ob21lL25hamQtZGV2L0RvY3VtZW50cy9wbGF5LWphdmEvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+20 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWsCZp4Z1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPC9ob21lL25hamQtZGV2L0RvY3VtZW50cy9wbGF5LWphdmEvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+21 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWsCadDN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPC9ob21lL25hamQtZGV2L0RvY3VtZW50cy9wbGF5LWphdmEvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=

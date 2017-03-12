@@ -1,0 +1,74 @@
+<span><button ng-show="!visible" ng-click="showform()" class="btn btn-info">Add Book</button>
+    <button ng-show="visible" ng-click="Hideform()" class="btn btn-info"><span class="glyphicon glyphicon-remove"></span>Cancel</button>
+</span>
+
+<div style="width: 50%"  ng-show="visible" >
+    <div class="panel panel-default">
+        <div class="panel-body">
+            <button class="btn btn-info" ng-click="save()"><span class="glyphicon glyphicon-pencil"></span>
+                <i ng-show="!book.id" >Add</i>
+                <i ng-show="book.id" >Update</i></button>
+            <button class="btn btn-info" ng-click="reset()"><span class="glyphicon glyphicon-flash"></span>Reset</button>
+            <button ng-show="book.id" class="btn btn-info" ng-click="delete()"><span class="glyphicon glyphicon-trash"></span>Delete</button>
+
+            <div ng-show="msg.length" class="alert alert-info">
+                {{msg}}
+            </div>
+
+            <form name="BookFrom">
+                <div class="form-group">
+                    <label for="id">id: {{book.id}}</label>
+                </div>
+                <div class="form-group">
+                    <label for="id">Title</label>
+                    <input required type="text" class="form-control" ng-model="book.title" >
+                    <span style="color: red" ng-show="!book.title.length">Field title is empty!</span>
+                </div>
+                <div class="form-group">
+                    <label for="id">Author </label>
+                    <input required type="text" class="form-control" ng-model="book.author" >
+                    <span style="color: red" ng-show="!book.author.length">Field author is empty!</span>
+                </div>
+                <div class="form-group">
+                    <label for="id">Pages</label>
+                    <input required type="number" class="form-control" ng-model="book.pages" >
+                    <span style="color: red" ng-show="!book.pages">Field pages is empty!</span>
+                </div>
+                <div class="form-group">
+                    <label for="id">Description</label>
+                    <textarea style="width: 100%" ng-model="book.description"></textarea>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+<br> <br>
+
+<div ng-show="!visible">
+    <table id="table_id" class="table table-condensed table-striped table-hover">
+        <thead>
+            <tr>
+                <th>id</th>
+                <th>title</th>
+                <th>Author</th>
+                <th>pages</th>
+                <th>Manage</th>
+
+            </tr>
+        </thead>
+
+        <tbody>
+            <tr ng-repeat="book in books" ng-click="selectBook(book,$index)" style="cursor: hand">
+                <td>{{ book.id }}</td>
+                <td>{{ book.title }}</td>
+                <td>{{ book.author }}</td>
+                <td>{{ book.pages }}</td>
+              <td><button ng-click="showform()" class="btn btn-info"><span class="glyphicon glyphicon-pencil"></span> Edit</button></td>
+                <td><button  class="btn btn-info" ng-click="delete(book,$index)"><span class="glyphicon glyphicon-trash"></span>Delete</button></td>
+            </tr>
+
+        </tbody>
+    </table>
+
+</div>

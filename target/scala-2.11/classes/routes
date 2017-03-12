@@ -1,0 +1,24 @@
+# Routes
+# This file defines all application routes (Higher priority routes first)
+# ~~~~
+
+# Home page
+GET     /                               controllers.BookController.index()
+#Render AngularJS ng-view
+GET     /template                       controllers.BookController.template()
+
+#Upload Picture
+#POST    /upload                         controllers.BookController.upload(request = )
+
+# Rest API for Book
+
+GET     /api/books                      controllers.BookController.listBooks()
+GET     /api/books/$id<[0-9]+>          controllers.BookController.getbookById(id: Integer)
+POST    /api/books                      controllers.BookController.createBook()
+PUT     /api/books                      controllers.BookController.updateBook()
+DELETE  /api/books/$id<[0-9]+>          controllers.BookController.deleteBookById(id: Integer)
+
+
+# Map static resources from the /public folder to the /assets URL path
+GET     /assets/*file               controllers.Assets.at(path="/public", file)
+

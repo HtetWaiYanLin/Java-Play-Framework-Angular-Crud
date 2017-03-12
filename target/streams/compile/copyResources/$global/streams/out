@@ -1,0 +1,6 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(/home/najd-dev/Documents/play-java/conf/logback.xml,/home/najd-dev/Documents/play-java/target/scala-2.11/classes/logback.xml)[0m
+[0m[[0mdebug[0m] [0m	(/home/najd-dev/Documents/play-java/conf/application.conf,/home/najd-dev/Documents/play-java/target/scala-2.11/classes/application.conf)[0m
+[0m[[0mdebug[0m] [0m	(/home/najd-dev/Documents/play-java/conf/routes,/home/najd-dev/Documents/play-java/target/scala-2.11/classes/routes)[0m
+[0m[[0mdebug[0m] [0m	(/home/najd-dev/Documents/play-java/conf/META-INF,/home/najd-dev/Documents/play-java/target/scala-2.11/classes/META-INF)[0m
+[0m[[0mdebug[0m] [0m	(/home/najd-dev/Documents/play-java/conf/META-INF/persistence.xml,/home/najd-dev/Documents/play-java/target/scala-2.11/classes/META-INF/persistence.xml)[0m
